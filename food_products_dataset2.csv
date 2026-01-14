@@ -1,0 +1,1001 @@
+Product_ID,Product_Name,Product_Description,Ingredients,Claims,Packaging_Type,Packaging_Recyclable,Contains_Chemicals,Organic_Claim,Vegan_Claim,Cruelty_Free,Biodegradable,Carbon_Footprint_Level,Country_of_Origin,Price_INR,Shelf_Life_Months,Consumer_Rating,Eco_Label_Class
+F103,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,No,Yes,No,No,Yes,Yes,Low,India,180,11,5,Eco
+F180,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Plastic,No,Yes,No,Yes,Yes,No,Medium,India,147,10,4.3,Not Eco
+F093,organic Pulses,Naturally grown pulses,Lentils pack,Organic farming,Glass,Yes,No,No,No,No,No,High,India,558,29,4,Eco
+F015,Organic Honey,Pure natural honey,Honey,No additives,Glass,Yes,Yes,No,No,No,No,Medium,India,314,17,4.9,Not Eco
+F107,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Plastic,Yes,Yes,No,No,No,Yes,High,India,470,19,5,Not Eco
+F072,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Glass,No,Yes,Yes,No,Yes,Yes,Low,India,373,,4.8,Not Eco
+F189,,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Glass,Yes,Yes,No,No,No,Yes,Low,India,195,60,3.9,Eco
+F021,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives pack,Glass,No,Yes,No,No,No,No,Medium,India,294,1,4.7,Eco
+F103,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,No,Yes,No,No,Yes,Yes,Low,India,,11,5,Eco
+F122,Cold Drink,Carbonated soft drink,"Sugar, water offer",Refreshing,Plastic,No,No,Yes,No,Yes,No,High,India,182,28,3.7,Eco
+F075,Packaged Bread,Soft white bread,"Refined flour, yeast",fresh baked,Metal,No,Yes,Yes,No,No,No,Medium,India,129,33,3.8,Eco
+F088,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Metal,Yes,No,Yes,No,Yes,No,High,India,499,24,4.6,Not Eco
+F117,Organic Pulses batch,,Lentils,Organic farming,Metal,Yes,Yes,Yes,Yes,Yes,No,Low,India,,59,4.1,Not Eco
+F100,Organic Spice Mix,Traditional spice blend offer,Natural spices batch,No preservatives,Glass,Yes,Yes,Yes,No,No,Yes,Medium,India,292,53,4.2,Eco
+F104,Packaged Bread,Soft white bread,,fresh baked,Metal,Yes,Yes,Yes,Yes,Yes,No,High,India,186,27,4.6,Not Eco
+F152,Instant Noodles,Quick cook noodles,"refined flour, preservatives",Fast cooking,Paper,Yes,Yes,Yes,Yes,No,Yes,Medium,India,344,46,4.4,Not Eco
+F131,Chocolate Bar,Milk chocolate,"sugar, cocoa pack",Rich taste batch,Metal,Yes,No,Yes,No,Yes,Yes,Low,India,505,,4.7,Eco
+F150,Green Tea Bags,Natural green tea new,Green tea leaves,Antioxidant rich,Glass,No,Yes,Yes,Yes,No,No,High,India,397,42,4.5,Eco
+F053,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Glass,Yes,No,No,Yes,Yes,No,Low,India,573,21,3.9,Eco
+F002,Instant Noodles,Quick cook noodles,"Refined flour, preservatives pack",Fast cooking,Paper,No,Yes,No,No,Yes,No,Medium,India,436,18,4.9,Eco
+F088,Cooking Oil offer,Refined sunflower oil,Sunflower oil,Light and healthy offer,Metal,Yes,No,Yes,No,Yes,No,High,India,499,24,4.6,Not Eco
+F158,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified pack,Paper,No,No,No,No,Yes,Yes,Low,India,247,55,4.7,Not Eco
+F038,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Glass,Yes,Yes,No,No,No,No,High,India,141,39,4.6,Eco
+F130,,Traditional spice blend,Natural spices offer,no preservatives,Paper,No,Yes,Yes,No,Yes,No,Medium,India,364,13,3.6,Not Eco
+F192,,Traditional spice blend,Natural spices,No preservatives,Paper,Yes,No,Yes,Yes,No,No,Low,India,115,20,4.3,Eco
+F188,Organic Honey offer,Pure natural honey,Honey,No additives,Metal,No,Yes,No,Yes,No,No,High,India,551,9,4.2,Eco
+F021,Organic Spice Mix new,Traditional spice blend,Natural spices,No preservatives,Glass,No,Yes,No,No,No,No,Medium,India,294,1,4.7,Eco
+F161,Organic Honey,Pure natural honey offer,Honey,No additives,Glass,No,Yes,No,No,Yes,Yes,High,India,330,17,3.7,Eco
+F058,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked offer,Glass,Yes,Yes,No,Yes,Yes,Yes,Low,India,568,9,3.6,Not Eco
+F022,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy offer,Plastic,Yes,Yes,Yes,Yes,No,No,Low,India,429,22,3.7,Not Eco
+F089,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Glass,Yes,No,Yes,Yes,Yes,No,High,India,40,56,3.7,Eco
+F049,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,Yes,No,Yes,Yes,No,No,High,India,175,26,3.9,Eco
+F059,,Refined sunflower oil,,Light and healthy,Metal,Yes,No,Yes,No,No,Yes,Medium,India,69,56,4.4,Eco
+F170,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking new,Paper,Yes,No,Yes,No,No,Yes,Medium,India,295,2,4.6,Not Eco
+F188,Organic Honey,Pure natural honey,honey,No additives,Metal,No,Yes,No,Yes,No,No,High,India,551,9,4.2,Not Eco
+F015,Organic Honey,Pure natural honey,Honey,No additives,Glass,Yes,Yes,No,No,No,No,Medium,India,314,17,4.9,Not Eco
+F190,Green Tea Bags,,Green tea leaves,Antioxidant rich,Paper,No,Yes,Yes,No,Yes,No,Medium,India,105,17,3.6,Not Eco
+F190,,Natural green tea,Green tea leaves,Antioxidant rich,Paper,No,Yes,Yes,No,Yes,No,Medium,India,105,17,3.6,Not Eco
+F175,Organic Brown Rice,Whole grain organic rice,Brown rice pack,Organic certified,,No,Yes,No,Yes,No,No,Low,India,435,52,4.9,Eco
+F190,Green Tea Bags,,Green tea leaves,Antioxidant rich,Paper,No,Yes,Yes,No,Yes,No,Medium,India,105,17,3.6,Not Eco
+F051,chocolate Bar,Milk chocolate,,Rich taste,Plastic,No,Yes,Yes,No,No,Yes,High,India,350,24,4.8,Not Eco
+F108,Organic Honey,Pure natural honey,Honey,No additives,Plastic,,Yes,Yes,Yes,Yes,Yes,Low,India,567,58,4.9,Eco
+F055,Organic Honey,Pure natural honey,Honey,No additives,Paper,Yes,Yes,Yes,Yes,Yes,No,Medium,India,79,13,4.7,Eco
+F064,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Glass,Yes,No,Yes,No,No,No,Low,India,430,17,4.6,Eco
+F131,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Metal,Yes,No,Yes,No,Yes,Yes,Low,India,505,35,4.7,Eco
+F051,Chocolate Bar,Milk chocolate,"Sugar, cocoa",,Plastic,No,Yes,Yes,No,No,Yes,High,India,350,24,4.8,Eco
+F135,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Plastic,No,No,No,No,No,Yes,Low,India,201,37,4.4,Not Eco
+F021,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives new,Glass,No,Yes,No,No,No,No,Medium,India,294,1,4.7,Not Eco
+F073,Cold Drink batch,Carbonated soft drink,"Sugar, water",Refreshing batch,Paper,Yes,Yes,No,No,No,Yes,Low,India,149,12,4.7,Eco
+F167,Organic Pulses,naturally grown pulses pack,,Organic farming,Plastic,Yes,No,Yes,Yes,Yes,No,Medium,India,237,23,3.6,Not Eco
+F018,Green Tea Bags,Natural green tea new,Green tea leaves,Antioxidant rich,Metal,Yes,No,Yes,No,No,No,Medium,India,124,,4.8,Not Eco
+F132,Organic Spice Mix,Traditional spice blend,Natural spices pack,No preservatives,Paper,No,Yes,No,No,Yes,No,High,India,509,45,5,Eco
+F089,,Refined sunflower oil,,Light and healthy,,Yes,No,Yes,Yes,Yes,No,High,India,40,56,3.7,Not Eco
+F060,Chocolate Bar,Milk chocolate,"Sugar, cocoa",rich taste,Glass,Yes,No,No,No,Yes,No,Medium,India,241,48,3.6,Eco
+F014,green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,,No,No,No,No,No,Yes,Low,India,595,9,4.6,Not Eco
+F009,instant Noodles,Quick cook noodles,"Refined flour, preservatives",,Glass,No,No,Yes,Yes,Yes,No,Medium,India,227,57,3.9,Eco
+F090,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,No,Yes,No,Yes,Yes,Yes,Low,India,199,14,4.9,Not Eco
+F053,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Glass,Yes,No,No,Yes,Yes,No,Low,India,573,21,3.9,Eco
+F130,Organic Spice Mix,Traditional spice blend,Natural spices pack,no preservatives offer,Paper,No,Yes,Yes,No,Yes,No,Medium,India,,13,3.6,Not Eco
+F084,packaged Bread,Soft white bread,"Refined flour, yeast",fresh baked,Metal,No,No,No,No,No,No,High,India,106,4,4.7,Eco
+F092,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Paper,No,Yes,Yes,Yes,No,No,Medium,India,200,54,3.6,Eco
+F111,Organic Honey,Pure natural honey,Honey,No additives,Glass,No,Yes,No,Yes,Yes,Yes,High,India,317,2,4.2,Not Eco
+F188,Organic Honey,Pure natural honey,Honey,No additives,Metal,No,Yes,No,Yes,No,No,High,India,551,9,4.2,Not Eco
+F199,Organic Pulses,Naturally grown pulses pack,Lentils,Organic farming,Paper,Yes,No,No,Yes,No,No,Medium,India,550,21,4.9,Not Eco
+F172,Organic Honey,Pure natural honey,Honey,No additives,Paper,No,No,No,Yes,Yes,No,High,India,543,44,4.1,Not Eco
+F008,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Metal,No,No,Yes,No,Yes,No,High,India,427,57,4.3,Eco
+F175,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Paper,No,Yes,No,Yes,No,No,Low,India,435,,4.9,Eco
+F035,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Metal,Yes,No,Yes,Yes,No,No,Low,India,,34,5,Not Eco
+F081,Green Tea Bags,Natural green tea,Green tea leaves offer,Antioxidant rich,,No,Yes,Yes,Yes,Yes,Yes,Medium,India,163,6,4.2,Not Eco
+F164,Organic Honey,Pure natural honey,Honey,No additives,Metal,No,Yes,No,No,No,Yes,Low,India,199,10,4.1,Not Eco
+F050,Organic Honey,Pure natural honey,Honey,No additives,Glass,Yes,No,Yes,Yes,No,Yes,High,India,475,46,3.8,Not Eco
+F104,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,Yes,Yes,Yes,Yes,No,High,India,186,27,4.6,Not Eco
+F132,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Paper,No,Yes,No,No,Yes,No,High,India,509,45,5,Eco
+F002,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,No,Yes,No,No,Yes,No,Medium,India,436,18,4.9,Eco
+F134,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,Yes,Yes,Yes,Yes,Yes,No,Low,India,415,24,4.4,Eco
+F054,Organic Spice Mix,Traditional spice blend,Natural spices pack,No preservatives,Paper,No,No,No,No,Yes,Yes,Low,India,530,34,4.7,Eco
+F106,organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Metal,No,No,Yes,Yes,No,No,High,India,164,32,4.4,Not Eco
+F004,Chocolate Bar,Milk chocolate offer,"Sugar, cocoa",Rich taste,Glass,Yes,Yes,No,No,No,No,High,India,269,57,4.5,Not Eco
+F054,Organic Spice Mix offer,Traditional spice blend,Natural spices,No preservatives,Paper,No,No,No,No,Yes,Yes,Low,India,530,34,4.7,Eco
+F191,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Paper,Yes,No,Yes,No,No,Yes,Low,India,525,49,4.4,Eco
+F146,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked batch,,No,No,Yes,No,Yes,Yes,High,India,414,3,4.1,Not Eco
+F044,Organic Pulses,,Lentils,Organic farming,Paper,Yes,No,Yes,No,No,No,High,India,63,47,3.7,Not Eco
+F162,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Metal,Yes,No,Yes,No,Yes,No,Low,India,561,12,5,Eco
+F190,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Paper,No,Yes,Yes,No,Yes,No,Medium,India,105,17,3.6,Not Eco
+F014,Green Tea Bags,Natural green tea,,Antioxidant rich,Paper,No,No,No,No,No,Yes,Low,India,595,9,4.6,Not Eco
+F095,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing batch,Metal,Yes,No,No,Yes,Yes,Yes,Medium,India,147,44,4.7,Not Eco
+F048,Packaged Bread,,"Refined flour, yeast",Fresh baked,Metal,Yes,No,No,Yes,Yes,No,Medium,India,345,51,,Eco
+F015,Organic Honey,Pure natural honey,Honey,No additives,Glass,Yes,Yes,No,No,No,No,Medium,India,314,17,4.9,Not Eco
+F200,organic Spice Mix,Traditional spice blend pack,Natural spices,No preservatives,Paper,No,Yes,Yes,No,No,No,Medium,India,,48,4.6,Not Eco
+F190,Green Tea Bags,Natural green tea,Green tea leaves batch,Antioxidant rich,Paper,No,Yes,Yes,No,Yes,No,Medium,India,105,17,3.6,Not Eco
+F040,,Refined sunflower oil,Sunflower oil,Light and healthy,,No,No,No,Yes,Yes,No,Medium,India,457,30,4.6,Eco
+F082,Packaged Bread,Soft white bread pack,"Refined flour, yeast",Fresh baked,Metal,,Yes,Yes,No,Yes,No,High,India,398,48,4.1,Not Eco
+F111,Organic Honey pack,Pure natural honey,Honey,no additives,Glass,No,Yes,No,Yes,Yes,Yes,High,India,317,2,4.2,Not Eco
+F053,Organic Pulses offer,Naturally grown pulses,Lentils,Organic farming,Glass,Yes,No,No,Yes,Yes,No,Low,India,573,21,3.9,Eco
+F024,Organic Spice Mix pack,Traditional spice blend,Natural spices,No preservatives,Glass,Yes,No,Yes,Yes,No,Yes,High,India,98,46,3.6,Not Eco
+F154,Packaged Bread,Soft white bread,"Refined flour, yeast batch",Fresh baked,Metal,Yes,No,No,Yes,No,Yes,Low,India,275,14,4.5,Eco
+F188,,,,No additives,,No,Yes,No,Yes,No,No,High,India,551,9,4.2,Not Eco
+F124,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",,Plastic,No,Yes,No,Yes,Yes,Yes,Low,India,181,49,4.2,Eco
+F041,,Milk chocolate,"Sugar, cocoa",Rich taste,Metal,Yes,Yes,No,No,No,Yes,High,India,212,10,3.9,Eco
+F157,Cold Drink,Carbonated soft drink,,Refreshing pack,Paper,Yes,No,Yes,No,Yes,Yes,High,India,299,43,4.4,Not Eco
+F015,Organic Honey,Pure natural honey,Honey,,,Yes,Yes,No,No,No,No,Medium,India,314,17,4.9,Not Eco
+F045,Instant Noodles,Quick cook noodles batch,"Refined flour, preservatives",,Plastic,No,Yes,No,Yes,Yes,Yes,High,India,554,45,3.6,Not Eco
+F065,Chocolate Bar,milk chocolate,"Sugar, cocoa",rich taste,Paper,No,Yes,No,Yes,No,Yes,High,India,,33,4.2,Eco
+F089,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Glass,Yes,No,Yes,Yes,Yes,No,High,India,40,56,3.7,Eco
+F071,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Paper,Yes,Yes,No,No,No,Yes,Low,India,354,54,4.3,Eco
+F009,Instant Noodles,Quick cook noodles,"Refined flour, preservatives batch",Fast cooking,Glass,,No,Yes,Yes,Yes,No,Medium,India,227,57,3.9,Eco
+F088,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Metal,Yes,No,Yes,No,Yes,No,High,India,499,24,4.6,Not Eco
+F129,Green Tea Bags,natural green tea,Green tea leaves,antioxidant rich,,Yes,Yes,No,No,No,No,Medium,India,568,25,3.6,Not Eco
+F136,instant Noodles batch,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Plastic,Yes,No,Yes,No,Yes,No,Medium,India,46,12,4.1,Not Eco
+F063,Chocolate Bar pack,Milk chocolate,"Sugar, cocoa",Rich taste,,Yes,Yes,Yes,No,Yes,No,Medium,India,42,15,5,Eco
+F139,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Metal,No,Yes,No,No,No,No,Low,India,526,10,4.7,Not Eco
+F081,Green Tea Bags pack,Natural green tea,Green tea leaves,Antioxidant rich,Plastic,No,Yes,Yes,Yes,Yes,Yes,Medium,India,163,6,4.2,Not Eco
+F136,Instant Noodles new,Quick cook noodles,"refined flour, preservatives",,Plastic,Yes,No,Yes,No,Yes,No,Medium,India,46,12,4.1,Not Eco
+F163,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Metal,Yes,No,Yes,Yes,Yes,Yes,Medium,India,59,58,4.6,Not Eco
+F163,,Whole grain organic rice,Brown rice,organic certified,Metal,Yes,No,Yes,Yes,Yes,Yes,Medium,India,59,58,4.6,Not Eco
+F033,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Glass,No,No,No,Yes,Yes,Yes,Low,India,80,42,3.5,Not Eco
+F123,Cooking Oil,,Sunflower oil,Light and healthy,Glass,No,Yes,Yes,Yes,Yes,No,Low,India,134,30,4.6,Eco
+F005,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Paper,Yes,No,No,No,No,Yes,Low,India,275,43,3.7,Not Eco
+F041,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Metal,Yes,Yes,No,No,No,Yes,High,India,212,10,3.9,Eco
+F028,Packaged Bread,Soft white bread new,"Refined flour, yeast",Fresh baked,Metal,,Yes,No,Yes,No,No,Low,India,334,54,4.5,Not Eco
+F135,,carbonated soft drink,"Sugar, water",Refreshing batch,Plastic,No,No,No,No,No,Yes,Low,India,201,,4.4,Eco
+F072,Instant Noodles,Quick cook noodles,"Refined flour, preservatives pack",,Glass,No,Yes,Yes,No,Yes,Yes,Low,India,373,9,4.8,Not Eco
+F012,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Glass,No,No,No,No,Yes,No,High,India,448,19,3.9,Not Eco
+F162,Organic Brown Rice,whole grain organic rice,brown rice,Organic certified,Metal,Yes,No,Yes,No,Yes,No,Low,India,561,12,5,Not Eco
+F033,Cold Drink,Carbonated soft drink,,Refreshing pack,Glass,No,No,No,Yes,Yes,Yes,Low,India,80,42,3.5,Not Eco
+F048,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,,No,No,Yes,Yes,No,Medium,India,345,51,4.5,Eco
+F151,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,No,Yes,No,Yes,No,No,Medium,India,343,5,,Not Eco
+F062,Organic Pulses,,Lentils batch,Organic farming,,Yes,No,No,Yes,No,No,High,India,309,38,4.5,Eco
+F037,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich offer,Metal,No,Yes,No,No,Yes,Yes,Medium,India,453,50,3.7,Not Eco
+F099,Packaged Bread,Soft white bread,"Refined flour, yeast",,Glass,Yes,Yes,No,No,Yes,No,High,India,35,52,5,Eco
+F172,organic Honey,Pure natural honey,Honey,No additives,,No,No,No,Yes,Yes,No,High,India,543,44,4.1,Not Eco
+F104,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,,Yes,Yes,Yes,Yes,No,High,India,186,27,4.6,Not Eco
+F035,Instant Noodles pack,Quick cook noodles,"Refined flour, preservatives",Fast cooking offer,Metal,Yes,No,Yes,Yes,No,No,Low,India,332,34,5,Not Eco
+F193,green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Plastic,Yes,No,No,No,Yes,Yes,Medium,India,186,38,4.7,Not Eco
+F101,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,Yes,Yes,Yes,No,Yes,No,Low,India,95,2,4,Eco
+F175,Organic Brown Rice,,Brown rice,Organic certified,Paper,No,Yes,No,Yes,No,No,Low,India,,52,4.9,Eco
+F131,Chocolate Bar,Milk chocolate new,"Sugar, cocoa",Rich taste,Metal,Yes,No,Yes,No,Yes,Yes,Low,India,505,35,4.7,Not Eco
+F001,cold Drink,Carbonated soft drink,"Sugar, water",,Plastic,No,Yes,No,Yes,Yes,No,Low,India,186,33,4.5,Not Eco
+F005,Organic Spice Mix,Traditional spice blend offer,Natural spices,,Paper,Yes,No,No,No,No,Yes,Low,India,275,43,3.7,Eco
+F142,Chocolate Bar batch,Milk chocolate,"Sugar, cocoa",Rich taste,Plastic,No,Yes,Yes,Yes,Yes,No,Low,India,509,29,3.7,Not Eco
+F103,Cold Drink pack,Carbonated soft drink,"Sugar, water",,Metal,No,Yes,No,No,Yes,Yes,Low,India,180,11,5,Eco
+F027,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Paper,No,No,Yes,No,No,Yes,High,India,483,,4.4,Not Eco
+F137,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Glass,Yes,Yes,No,Yes,Yes,Yes,Low,India,196,24,4.1,Not Eco
+F015,Organic Honey,Pure natural honey new,Honey,No additives,Glass,Yes,Yes,No,No,No,No,Medium,India,314,17,4.9,Not Eco
+F090,Organic Pulses offer,naturally grown pulses,Lentils,Organic farming,Paper,No,Yes,No,Yes,Yes,Yes,Low,India,199,14,4.9,Not Eco
+F042,organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Metal,Yes,Yes,No,Yes,No,Yes,Medium,India,130,42,3.7,Eco
+F124,Instant Noodles,Quick cook noodles,"refined flour, preservatives",Fast cooking,Plastic,No,Yes,No,Yes,Yes,Yes,Low,India,181,49,4.2,Eco
+F179,Organic Pulses pack,Naturally grown pulses,Lentils,Organic farming,Paper,Yes,No,Yes,Yes,No,Yes,Low,India,519,3,3.6,Not Eco
+F063,Chocolate Bar offer,,"Sugar, cocoa",rich taste,Plastic,Yes,Yes,Yes,No,Yes,No,Medium,India,42,15,5,Not Eco
+F096,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Glass,Yes,No,Yes,No,Yes,Yes,Low,India,128,23,4,Not Eco
+F052,Organic Honey,Pure natural honey,Honey,No additives,Metal,,Yes,No,Yes,No,Yes,Medium,India,117,34,4,Eco
+F096,Green Tea Bags pack,natural green tea,Green tea leaves,Antioxidant rich,Glass,Yes,No,Yes,No,Yes,Yes,Low,India,128,,4,Not Eco
+F132,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Paper,No,Yes,No,No,Yes,No,High,India,509,45,5,Eco
+F151,Instant Noodles,Quick cook noodles batch,"Refined flour, preservatives",Fast cooking batch,,No,Yes,No,Yes,No,No,Medium,India,343,5,4.2,Not Eco
+F143,Organic Brown Rice,Whole grain organic rice,Brown rice,organic certified,Paper,,Yes,Yes,No,Yes,Yes,High,India,156,30,3.9,Eco
+F171,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Paper,No,Yes,Yes,No,No,No,High,India,416,12,4.8,Not Eco
+F029,Cooking Oil,Refined sunflower oil,Sunflower oil new,light and healthy,Paper,No,Yes,No,No,No,No,High,India,572,35,3.9,Not Eco
+F036,Organic Honey,Pure natural honey,Honey,No additives,Glass,,Yes,Yes,Yes,No,Yes,Low,India,268,23,4.9,Not Eco
+F013,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives new,Paper,No,No,No,Yes,Yes,No,Medium,India,424,1,4.5,Eco
+F160,,Naturally grown pulses,Lentils,Organic farming,Paper,No,No,No,No,No,No,Low,India,386,28,4.6,Not Eco
+F071,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Paper,Yes,Yes,No,No,No,Yes,Low,India,354,54,4.3,Eco
+F187,Organic Honey,Pure natural honey,Honey offer,No additives,Glass,Yes,No,Yes,Yes,No,No,Low,India,304,7,4.5,Eco
+F086,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Metal,,No,No,Yes,No,No,Low,India,72,14,4.3,Eco
+F028,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,Yes,No,Yes,No,No,Low,India,334,54,4.5,Not Eco
+F066,Organic Brown Rice,Whole grain organic rice,brown rice,Organic certified new,,Yes,No,No,No,No,Yes,Low,India,159,40,4,Eco
+F170,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,Yes,No,Yes,No,No,Yes,Medium,India,295,2,4.6,Not Eco
+F045,Instant Noodles,Quick cook noodles new,"Refined flour, preservatives",Fast cooking,Plastic,No,Yes,No,Yes,Yes,Yes,High,India,554,45,3.6,Eco
+F062,Organic Pulses pack,Naturally grown pulses pack,Lentils,Organic farming,Glass,Yes,No,No,Yes,No,No,High,India,309,38,4.5,Eco
+F185,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Glass,No,No,No,No,No,Yes,Medium,India,326,,4.4,Eco
+F134,Instant Noodles,Quick cook noodles pack,"Refined flour, preservatives",Fast cooking,Paper,Yes,Yes,Yes,Yes,Yes,No,Low,India,415,24,4.4,Not Eco
+F028,Packaged Bread,Soft white bread,"Refined flour, yeast new",Fresh baked,Metal,Yes,Yes,No,Yes,No,No,Low,India,334,54,4.5,Not Eco
+F028,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,Yes,No,Yes,No,No,Low,India,334,54,4.5,Not Eco
+F108,Organic Honey,Pure natural honey,Honey,No additives,Plastic,No,Yes,Yes,Yes,Yes,Yes,Low,India,567,58,4.9,Eco
+F044,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,Yes,No,Yes,No,No,No,High,India,63,47,3.7,Not Eco
+F084,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,No,No,No,No,No,No,High,India,106,4,4.7,Eco
+F030,Cold Drink batch,Carbonated soft drink,"Sugar, water offer",Refreshing,Metal,,Yes,No,No,Yes,No,Medium,India,288,38,4.4,Not Eco
+F190,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Paper,No,Yes,Yes,No,Yes,No,Medium,India,105,17,3.6,Not Eco
+F075,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked offer,Metal,No,Yes,Yes,No,No,No,Medium,India,129,33,3.8,Eco
+F128,Green Tea Bags,natural green tea,Green tea leaves,Antioxidant rich,Paper,No,Yes,No,No,Yes,No,High,India,113,47,4.9,Not Eco
+F092,Cold Drink,Carbonated soft drink batch,"Sugar, water",Refreshing,Paper,No,Yes,Yes,Yes,No,No,Medium,India,200,54,3.6,Eco
+F190,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Paper,No,Yes,Yes,No,Yes,No,Medium,India,105,17,3.6,Not Eco
+F129,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Plastic,Yes,Yes,No,No,No,No,Medium,India,568,25,3.6,Not Eco
+F121,Organic Spice Mix,Traditional spice blend,Natural spices,,,No,Yes,Yes,No,No,No,Low,India,205,2,4.2,Not Eco
+F027,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Paper,No,No,Yes,No,No,Yes,High,India,483,3,4.4,Eco
+F190,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Paper,,Yes,Yes,No,Yes,No,Medium,India,105,17,3.6,Eco
+F121,,Traditional spice blend,Natural spices,No preservatives offer,Plastic,No,Yes,Yes,No,No,No,Low,India,205,2,4.2,Not Eco
+F116,,naturally grown pulses,Lentils,organic farming,Paper,Yes,No,No,No,Yes,No,Low,India,278,10,4,Not Eco
+F003,,Carbonated soft drink,"Sugar, water offer",Refreshing,Paper,No,Yes,No,Yes,No,No,Medium,India,395,26,4.1,Not Eco
+F103,Cold Drink,Carbonated soft drink,"sugar, water",Refreshing,Metal,No,Yes,No,No,Yes,Yes,Low,India,180,11,5,Eco
+F198,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Glass,No,No,Yes,Yes,Yes,Yes,Low,India,134,19,4.8,Eco
+F200,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Paper,No,Yes,Yes,No,No,No,Medium,India,314,48,4.6,Not Eco
+F155,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Glass,Yes,Yes,No,No,Yes,No,High,India,116,46,4.8,Not Eco
+F137,,Natural green tea,Green tea leaves,Antioxidant rich,Glass,Yes,Yes,No,Yes,Yes,Yes,Low,India,196,24,4.1,Not Eco
+F062,Organic Pulses batch,Naturally grown pulses,Lentils,Organic farming,Glass,Yes,No,No,Yes,No,No,High,India,309,38,4.5,Eco
+F165,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",fast cooking batch,Paper,No,No,No,Yes,No,No,High,India,71,35,3.7,Not Eco
+F051,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,,No,Yes,Yes,No,No,Yes,High,India,350,24,4.8,Eco
+F172,,Pure natural honey,Honey,No additives,Paper,No,No,No,Yes,Yes,No,High,India,543,44,4.1,Eco
+F152,instant Noodles,Quick cook noodles,"Refined flour, preservatives",fast cooking,Paper,Yes,Yes,Yes,Yes,No,Yes,Medium,India,344,46,4.4,Eco
+F059,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Metal,Yes,No,Yes,No,No,Yes,Medium,India,69,56,4.4,Eco
+F118,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Plastic,No,Yes,Yes,No,No,Yes,Medium,India,179,45,5,Eco
+F160,Organic Pulses offer,Naturally grown pulses,Lentils,Organic farming,Paper,No,No,No,No,No,No,Low,India,386,28,4.6,Not Eco
+F096,Green Tea Bags,Natural green tea pack,Green tea leaves,Antioxidant rich,Glass,Yes,No,Yes,No,Yes,Yes,Low,India,128,23,4,Not Eco
+F180,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Plastic,No,Yes,No,Yes,Yes,No,Medium,India,147,10,4.3,Eco
+F113,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Glass,No,No,Yes,No,No,Yes,High,India,499,28,3.7,Eco
+F062,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Glass,Yes,No,No,Yes,No,No,High,India,309,38,4.5,Eco
+F186,,Refined sunflower oil pack,Sunflower oil batch,light and healthy,,Yes,No,No,No,Yes,Yes,Low,India,336,11,4.3,Not Eco
+F052,Organic Honey,Pure natural honey,,No additives,Metal,Yes,Yes,No,Yes,No,Yes,Medium,India,117,34,4,Not Eco
+F012,Organic Brown Rice,,Brown rice,Organic certified,Glass,,No,No,No,Yes,No,High,India,448,19,3.9,Not Eco
+F039,instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Metal,No,No,No,No,No,Yes,Medium,India,161,36,4.2,Eco
+F130,,Traditional spice blend,,No preservatives,Paper,No,Yes,Yes,No,Yes,No,Medium,India,364,13,3.6,Not Eco
+F131,Chocolate Bar,Milk chocolate pack,"Sugar, cocoa",Rich taste,Metal,Yes,No,Yes,No,Yes,Yes,Low,India,505,35,4.7,Eco
+F113,Cold Drink,,"Sugar, water",Refreshing,Glass,No,No,Yes,No,No,Yes,High,India,499,28,3.7,Eco
+F101,instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking batch,Paper,Yes,Yes,Yes,No,Yes,No,Low,India,95,2,4,Eco
+F113,Cold Drink,Carbonated soft drink,"sugar, water",Refreshing,Glass,No,No,Yes,No,No,Yes,High,India,499,28,3.7,Eco
+F184,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Metal,No,No,No,No,No,Yes,Medium,India,264,1,4.9,Eco
+F081,Green Tea Bags,Natural green tea pack,Green tea leaves,,Plastic,No,Yes,Yes,Yes,Yes,Yes,Medium,India,163,6,4.2,Not Eco
+F187,Organic Honey,Pure natural honey,Honey,No additives,Glass,Yes,No,Yes,Yes,No,No,Low,India,304,,,Eco
+F113,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Glass,No,No,Yes,No,No,Yes,High,India,499,28,3.7,Eco
+F002,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,No,Yes,No,No,Yes,No,Medium,India,436,18,4.9,Eco
+F130,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives offer,,No,Yes,Yes,No,Yes,No,Medium,India,364,13,3.6,Not Eco
+F054,Organic Spice Mix,Traditional spice blend pack,Natural spices,No preservatives,Paper,,No,No,No,Yes,Yes,Low,India,530,34,,Eco
+F087,Organic Pulses,Naturally grown pulses,Lentils,,,No,Yes,Yes,Yes,Yes,Yes,Low,India,71,55,4.3,Not Eco
+F129,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Plastic,Yes,Yes,No,No,No,No,Medium,India,568,25,3.6,Not Eco
+F147,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Plastic,No,No,No,No,Yes,No,Low,India,349,18,3.6,Eco
+F126,Organic Brown Rice,Whole grain organic rice,Brown rice,organic certified,Plastic,Yes,Yes,No,No,No,Yes,High,India,406,1,4.8,Eco
+F130,Organic Spice Mix,Traditional spice blend,Natural spices pack,No preservatives,Paper,No,Yes,Yes,No,Yes,No,Medium,India,364,13,3.6,Not Eco
+F053,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Glass,,No,No,Yes,Yes,No,Low,India,573,21,3.9,Eco
+F172,Organic Honey,Pure natural honey,Honey,No additives,Paper,No,No,No,Yes,Yes,No,High,India,543,44,,Not Eco
+F160,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,No,No,No,No,No,No,Low,India,386,28,4.6,Not Eco
+F198,Organic Brown Rice new,Whole grain organic rice,Brown rice,Organic certified,,No,No,Yes,Yes,Yes,Yes,Low,India,134,19,4.8,Eco
+F160,Organic Pulses,Naturally grown pulses offer,Lentils offer,,Paper,,No,No,No,No,No,Low,India,386,28,4.6,Not Eco
+F068,Cold Drink,Carbonated soft drink,"sugar, water",Refreshing,Metal,,No,No,Yes,No,Yes,High,India,550,4,4.3,Not Eco
+F183,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,No,Yes,No,Yes,No,High,India,537,24,4.8,Not Eco
+F184,Cooking Oil,Refined sunflower oil,,Light and healthy,Metal,No,No,No,No,No,Yes,Medium,India,264,1,4.9,Eco
+F123,Cooking Oil batch,Refined sunflower oil pack,sunflower oil,Light and healthy,,No,Yes,Yes,Yes,Yes,No,Low,India,134,30,4.6,Eco
+F145,,,Honey,No additives,Metal,Yes,No,No,Yes,No,Yes,Medium,India,381,8,4.1,Not Eco
+F038,Cooking Oil,refined sunflower oil,,Light and healthy,Glass,Yes,Yes,No,No,No,No,High,India,141,39,4.6,Eco
+F024,Organic Spice Mix pack,Traditional spice blend,Natural spices pack,No preservatives,Glass,Yes,No,Yes,Yes,No,Yes,High,India,98,46,3.6,Not Eco
+F069,Organic Honey,Pure natural honey,Honey,no additives offer,Paper,No,Yes,No,No,No,No,Low,India,132,39,4.7,Eco
+F116,Organic Pulses,Naturally grown pulses batch,Lentils,Organic farming,,Yes,No,No,No,Yes,No,Low,India,278,10,,Not Eco
+F098,Organic Honey,,Honey,No additives,Plastic,Yes,Yes,No,Yes,No,No,Medium,India,109,35,4,Eco
+F198,Organic Brown Rice batch,Whole grain organic rice,Brown rice,Organic certified,Glass,No,No,Yes,Yes,Yes,Yes,Low,India,134,19,4.8,Eco
+F139,Organic Pulses,Naturally grown pulses,Lentils pack,,Metal,No,Yes,No,No,No,No,Low,India,526,10,4.7,Eco
+F144,Organic Pulses,,Lentils,Organic farming,Glass,No,No,Yes,No,No,No,High,India,,30,4.5,Eco
+F097,Organic Honey,Pure natural honey,Honey,No additives,Metal,No,Yes,Yes,Yes,Yes,No,High,India,409,57,4.4,Not Eco
+F124,Instant Noodles,quick cook noodles,"Refined flour, preservatives",fast cooking,Plastic,No,Yes,No,Yes,Yes,Yes,Low,India,181,49,4.2,Eco
+F187,Organic Honey,Pure natural honey,Honey,No additives,,Yes,No,Yes,Yes,No,No,Low,India,304,,4.5,Eco
+F070,Packaged Bread batch,Soft white bread,"Refined flour, yeast",Fresh baked,Glass,No,No,No,Yes,Yes,Yes,Medium,India,530,47,4.2,Eco
+F093,Organic Pulses,,Lentils,Organic farming,Glass,Yes,No,No,No,No,No,High,India,558,29,4,Eco
+F003,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Paper,No,Yes,No,Yes,No,No,Medium,India,395,26,4.1,Not Eco
+F148,Green Tea Bags,Natural green tea,Green tea leaves new,Antioxidant rich,Glass,Yes,No,Yes,No,No,No,Medium,India,320,35,4.1,Eco
+F187,Organic Honey,Pure natural honey,Honey pack,No additives,Glass,Yes,No,Yes,Yes,No,No,Low,India,304,7,4.5,Eco
+F164,Organic Honey,Pure natural honey,Honey,No additives pack,Metal,No,Yes,No,No,No,Yes,Low,India,199,10,4.1,Not Eco
+F147,Organic Spice Mix,,Natural spices,No preservatives,Plastic,No,No,No,No,Yes,No,Low,India,349,18,3.6,Eco
+F090,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,No,Yes,No,Yes,Yes,Yes,Low,India,199,14,4.9,Not Eco
+F195,Green Tea Bags,Natural green tea new,Green tea leaves,,Plastic,No,Yes,No,No,No,No,Low,India,599,7,3.9,Not Eco
+F147,Organic Spice Mix,Traditional spice blend,Natural spices offer,No preservatives,Plastic,No,No,No,No,Yes,No,Low,India,349,18,3.6,Eco
+F148,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Glass,Yes,No,Yes,No,No,No,Medium,India,320,35,4.1,Eco
+F096,Green Tea Bags,Natural green tea,Green tea leaves,antioxidant rich,Glass,Yes,No,Yes,No,Yes,Yes,Low,India,128,23,4,Not Eco
+F199,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,Yes,No,No,Yes,No,No,Medium,India,550,21,4.9,Not Eco
+F052,Organic Honey,Pure natural honey,Honey,No additives,Metal,Yes,Yes,No,Yes,No,Yes,Medium,India,117,34,4,Not Eco
+F161,Organic Honey,Pure natural honey,honey,No additives pack,Glass,No,Yes,No,No,Yes,Yes,High,India,,17,3.7,Eco
+F168,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich batch,Paper,No,No,No,Yes,No,No,Medium,India,123,1,4,Not Eco
+F128,Green Tea Bags,Natural green tea batch,Green tea leaves,Antioxidant rich,Paper,No,Yes,No,No,Yes,No,High,India,113,47,4.9,Not Eco
+F039,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Metal,No,No,No,No,No,Yes,Medium,India,161,36,4.2,Eco
+F082,Packaged Bread,,"Refined flour, yeast",Fresh baked,Metal,Yes,Yes,Yes,No,Yes,No,High,India,398,48,4.1,Eco
+F104,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,Yes,Yes,Yes,Yes,No,High,India,186,27,,Not Eco
+F129,Green Tea Bags,natural green tea,Green tea leaves,Antioxidant rich pack,Plastic,Yes,Yes,No,No,No,No,Medium,India,568,25,3.6,Not Eco
+F011,Cooking Oil new,Refined sunflower oil,Sunflower oil,Light and healthy,Glass,No,No,No,No,Yes,Yes,High,India,419,45,3.7,Eco
+F185,Chocolate Bar,milk chocolate,"Sugar, cocoa",Rich taste,Glass,No,No,No,No,No,Yes,Medium,India,326,50,4.4,Eco
+F178,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Glass,,No,Yes,Yes,Yes,Yes,Low,India,401,45,4.1,Not Eco
+F151,Instant Noodles,Quick cook noodles,,Fast cooking,Paper,No,Yes,No,Yes,No,No,Medium,India,343,5,4.2,Eco
+F159,Organic Pulses,Naturally grown pulses pack,Lentils,Organic farming,Metal,No,No,No,No,No,Yes,Medium,India,221,55,4.7,Not Eco
+F042,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Metal,Yes,Yes,No,Yes,No,Yes,Medium,India,130,42,3.7,Eco
+F099,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Glass,Yes,Yes,No,No,Yes,No,High,India,35,52,5,Not Eco
+F007,Packaged Bread,Soft white bread,"Refined flour, yeast",,Metal,Yes,Yes,No,No,No,No,High,India,364,11,3.6,Not Eco
+F144,Organic Pulses,Naturally grown pulses,Lentils,,Glass,No,No,Yes,No,No,No,High,India,458,30,4.5,Eco
+F090,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,No,Yes,No,Yes,Yes,Yes,Low,India,199,14,4.9,Not Eco
+F112,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,No,Yes,Yes,No,No,No,High,India,217,8,3.7,Not Eco
+F060,chocolate Bar,Milk chocolate,"sugar, cocoa",Rich taste,Glass,Yes,No,No,No,Yes,No,Medium,India,241,48,3.6,Eco
+F113,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Glass,No,No,Yes,No,No,Yes,High,India,499,28,3.7,Eco
+F002,Instant Noodles,Quick cook noodles,,Fast cooking,Paper,No,Yes,No,No,Yes,No,Medium,India,436,18,4.9,Eco
+F129,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Plastic,Yes,Yes,No,No,No,No,Medium,India,568,25,3.6,Eco
+F048,Packaged Bread offer,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,No,No,Yes,Yes,No,Medium,India,345,51,4.5,Eco
+F140,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,No,Yes,Yes,No,No,No,High,India,451,53,4.7,Eco
+F197,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Plastic,Yes,No,Yes,Yes,Yes,No,High,India,495,5,3.8,Not Eco
+F037,Green Tea Bags,Natural green tea new,Green tea leaves,Antioxidant rich,Metal,No,Yes,No,No,Yes,Yes,Medium,India,453,50,3.7,Not Eco
+F160,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,No,No,No,No,No,No,Low,India,386,28,4.6,Eco
+F009,Instant Noodles pack,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Glass,No,No,Yes,Yes,Yes,No,Medium,India,227,57,3.9,Eco
+F099,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Glass,Yes,Yes,No,No,Yes,No,High,India,35,52,5,Eco
+F147,Organic Spice Mix,Traditional spice blend,Natural spices,,Plastic,No,No,No,No,Yes,No,Low,India,349,18,3.6,Eco
+F048,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,,Yes,No,No,Yes,Yes,No,Medium,India,345,51,4.5,Eco
+F131,Chocolate Bar,milk chocolate,"Sugar, cocoa",Rich taste,Metal,Yes,No,Yes,No,Yes,Yes,Low,India,505,35,4.7,Eco
+F148,Green Tea Bags,Natural green tea,green tea leaves,Antioxidant rich,Glass,Yes,No,Yes,No,No,No,Medium,India,,35,4.1,Eco
+F152,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,Yes,Yes,Yes,Yes,No,Yes,Medium,India,344,46,4.4,Not Eco
+F054,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Paper,No,No,No,No,Yes,Yes,Low,India,530,34,4.7,Eco
+F120,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Glass,No,No,No,Yes,No,Yes,Medium,India,261,13,4.2,Not Eco
+F161,Organic Honey,Pure natural honey,Honey,No additives,Glass,No,Yes,No,No,Yes,Yes,High,India,330,17,3.7,Eco
+F152,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,Yes,Yes,Yes,Yes,No,Yes,Medium,India,344,46,4.4,Not Eco
+F116,Organic Pulses,naturally grown pulses pack,Lentils,Organic farming,Paper,Yes,No,No,No,Yes,No,Low,India,278,10,4,Not Eco
+F075,packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,No,Yes,Yes,No,No,No,Medium,India,129,33,3.8,Eco
+F113,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Glass,No,No,Yes,No,No,Yes,High,India,499,28,3.7,Eco
+F200,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Paper,No,Yes,Yes,No,No,No,Medium,India,314,48,4.6,Not Eco
+F164,Organic Honey,Pure natural honey,Honey,No additives,Metal,No,Yes,No,No,No,Yes,Low,India,199,10,4.1,Not Eco
+F166,Organic Honey,Pure natural honey,Honey,No additives,Metal,No,Yes,Yes,Yes,Yes,No,Low,India,171,5,3.7,Eco
+F104,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,Yes,Yes,Yes,Yes,No,High,India,186,27,,Not Eco
+F084,Packaged Bread pack,Soft white bread,,Fresh baked,Metal,No,No,No,No,No,No,High,India,106,4,4.7,Eco
+F112,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,No,Yes,Yes,No,No,No,High,India,217,8,3.7,Not Eco
+F099,,Soft white bread,"Refined flour, yeast new",fresh baked,Glass,Yes,Yes,No,No,Yes,No,High,India,35,52,5,Eco
+F153,Cold Drink,Carbonated soft drink,"Sugar, water",refreshing,Plastic,Yes,Yes,No,No,No,Yes,High,India,216,21,3.7,Eco
+F093,Organic Pulses,Naturally grown pulses,lentils,Organic farming,Glass,Yes,No,No,No,No,No,High,India,558,29,4,Eco
+F146,Packaged Bread,soft white bread pack,"Refined flour, yeast",Fresh baked,Paper,No,No,Yes,No,Yes,Yes,High,India,414,3,4.1,Eco
+F128,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Paper,No,Yes,No,No,Yes,No,High,India,113,47,4.9,Not Eco
+F110,Instant Noodles,Quick cook noodles,"refined flour, preservatives",Fast cooking,Plastic,Yes,No,Yes,Yes,Yes,No,Low,India,482,32,4.2,Eco
+F082,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,Yes,Yes,No,Yes,No,High,India,398,48,4.1,Not Eco
+F194,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Metal,No,No,Yes,No,No,Yes,High,India,81,42,4,Eco
+F054,organic Spice Mix,Traditional spice blend batch,Natural spices,No preservatives,Paper,No,No,No,No,Yes,Yes,Low,India,530,34,4.7,Eco
+F163,organic Brown Rice,Whole grain organic rice,Brown rice batch,Organic certified,Metal,Yes,No,Yes,Yes,Yes,Yes,Medium,India,59,58,4.6,Not Eco
+F189,instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Glass,Yes,Yes,No,No,No,Yes,Low,India,195,60,3.9,Eco
+F169,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,Yes,Yes,No,Yes,Yes,Yes,High,India,223,35,4.3,Eco
+F161,Organic Honey,Pure natural honey,Honey,No additives,Glass,No,Yes,No,No,Yes,Yes,High,India,330,17,3.7,Eco
+F068,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,No,No,No,Yes,No,Yes,High,India,550,4,4.3,Eco
+F033,Cold Drink batch,Carbonated soft drink,"Sugar, water",Refreshing,Glass,No,No,No,Yes,Yes,Yes,Low,India,80,42,3.5,Eco
+F142,Chocolate Bar batch,Milk chocolate,,Rich taste,Plastic,No,Yes,Yes,Yes,Yes,No,Low,India,509,29,3.7,Not Eco
+F021,Organic Spice Mix,Traditional spice blend pack,Natural spices,No preservatives,Glass,No,Yes,No,No,No,No,Medium,India,294,1,4.7,Eco
+F048,Packaged Bread,soft white bread,"Refined flour, yeast",fresh baked,Metal,Yes,No,No,Yes,Yes,No,Medium,India,345,51,4.5,Eco
+F148,Green Tea Bags,Natural green tea offer,Green tea leaves,Antioxidant rich,Glass,Yes,No,Yes,No,No,No,Medium,India,320,35,4.1,Not Eco
+F128,Green Tea Bags,,Green tea leaves,Antioxidant rich offer,Paper,No,Yes,No,No,Yes,No,High,India,113,47,4.9,Not Eco
+F136,instant Noodles,Quick cook noodles,"Refined flour, preservatives",fast cooking,Plastic,Yes,No,Yes,No,Yes,No,Medium,India,46,,4.1,Not Eco
+F135,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Plastic,No,No,No,No,No,Yes,Low,India,201,37,4.4,Eco
+F195,Green Tea Bags new,Natural green tea,Green tea leaves,Antioxidant rich,Plastic,No,Yes,No,No,No,No,Low,India,,7,3.9,Not Eco
+F145,Organic Honey,Pure natural honey,Honey,No additives,Metal,Yes,No,No,Yes,No,Yes,Medium,India,381,8,4.1,Not Eco
+F128,green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Paper,No,Yes,No,No,Yes,No,High,India,113,47,4.9,Not Eco
+F033,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Glass,No,No,No,Yes,Yes,Yes,Low,India,80,,3.5,Not Eco
+F176,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Metal,No,No,No,No,No,Yes,Low,India,43,,4.3,Not Eco
+F187,Organic Honey,Pure natural honey,Honey,No additives batch,Glass,Yes,No,Yes,Yes,No,No,Low,India,304,7,4.5,Eco
+F115,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Metal,No,Yes,No,No,Yes,Yes,Medium,India,270,60,,Eco
+F119,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Paper,No,No,Yes,No,No,Yes,High,India,510,19,4,Eco
+F022,Cooking Oil,Refined sunflower oil,Sunflower oil batch,Light and healthy,Plastic,Yes,Yes,Yes,Yes,No,No,Low,India,429,22,3.7,Not Eco
+F158,,Whole grain organic rice batch,Brown rice,Organic certified,Paper,No,No,No,No,Yes,Yes,Low,India,247,55,4.7,Not Eco
+F038,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy batch,Glass,Yes,Yes,No,No,No,No,High,India,141,39,4.6,Eco
+F109,Organic Brown Rice,Whole grain organic rice,,Organic certified,Glass,No,No,Yes,No,Yes,No,Low,India,199,24,3.7,Eco
+F051,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Plastic,No,Yes,Yes,No,No,Yes,High,India,350,24,4.8,Eco
+F182,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Glass,Yes,Yes,Yes,No,No,Yes,High,India,308,1,4.8,Eco
+F008,,,Sunflower oil,Light and healthy,Metal,No,No,Yes,No,Yes,No,High,India,427,57,4.3,Eco
+F027,Organic Brown Rice,Whole grain organic rice,brown rice batch,Organic certified pack,Paper,No,No,Yes,No,No,Yes,High,India,483,3,4.4,Eco
+F027,Organic Brown Rice,Whole grain organic rice,Brown rice new,Organic certified,Paper,No,No,Yes,No,No,Yes,High,India,483,3,4.4,Eco
+F021,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Glass,No,Yes,No,No,No,No,Medium,India,294,1,4.7,Eco
+F030,Cold Drink,Carbonated soft drink offer,"Sugar, water",Refreshing,Metal,No,Yes,No,No,Yes,No,Medium,India,288,38,4.4,Eco
+F097,Organic Honey pack,Pure natural honey,Honey,No additives,Metal,,Yes,Yes,Yes,Yes,No,High,India,409,57,4.4,Not Eco
+F028,packaged Bread,Soft white bread offer,"Refined flour, yeast",Fresh baked,Metal,Yes,Yes,No,Yes,No,No,Low,India,334,54,4.5,Not Eco
+F111,Organic Honey,Pure natural honey,Honey,No additives pack,Glass,No,Yes,No,Yes,Yes,Yes,High,India,317,2,4.2,Not Eco
+F192,,Traditional spice blend batch,,,Paper,Yes,No,Yes,Yes,No,No,Low,India,115,20,4.3,Eco
+F197,Chocolate Bar,Milk chocolate,"sugar, cocoa",Rich taste,Plastic,Yes,No,Yes,Yes,Yes,No,High,India,495,5,3.8,Not Eco
+F061,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,,Yes,No,Yes,Yes,Yes,Yes,High,India,435,50,,Not Eco
+F048,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,No,No,Yes,Yes,No,Medium,India,345,51,4.5,Eco
+F147,organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Plastic,No,No,No,No,Yes,No,Low,India,349,18,3.6,Eco
+F004,Chocolate Bar,Milk chocolate new,"Sugar, cocoa",Rich taste,Glass,Yes,Yes,No,No,No,No,High,India,269,57,4.5,Not Eco
+F035,Instant Noodles,quick cook noodles,,Fast cooking,Metal,Yes,No,Yes,Yes,No,No,Low,India,332,34,5,Not Eco
+F192,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,,Yes,No,Yes,Yes,No,No,Low,India,115,20,4.3,Eco
+F049,cold Drink,Carbonated soft drink,"Sugar, water pack",Refreshing,Metal,Yes,No,Yes,Yes,No,No,High,India,175,26,3.9,Eco
+F017,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,,Yes,Yes,Yes,No,Yes,Medium,India,430,6,3.7,Eco
+F172,Organic Honey,Pure natural honey,Honey new,No additives,Paper,No,No,No,Yes,Yes,No,High,India,543,44,4.1,Eco
+F158,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Paper,No,No,No,No,Yes,Yes,Low,India,247,55,4.7,Not Eco
+F046,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Glass,No,No,Yes,No,Yes,Yes,Low,India,114,53,4.5,Not Eco
+F117,Organic Pulses,Naturally grown pulses,Lentils,Organic farming batch,Metal,Yes,Yes,Yes,Yes,Yes,No,Low,India,177,59,4.1,Eco
+F006,Cold Drink,Carbonated soft drink,"Sugar, water new",Refreshing,Paper,No,No,Yes,No,No,Yes,Medium,India,158,23,4.8,Eco
+F099,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Glass,Yes,Yes,No,No,Yes,No,High,India,35,52,5,Eco
+F124,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Plastic,No,Yes,No,Yes,Yes,Yes,Low,India,181,49,4.2,Eco
+F037,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Metal,No,Yes,No,No,Yes,Yes,Medium,India,453,50,3.7,Not Eco
+F024,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Glass,Yes,No,Yes,Yes,No,Yes,High,India,98,46,3.6,Not Eco
+F093,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Glass,Yes,No,No,No,No,No,High,India,558,29,4,Eco
+F046,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Glass,No,No,Yes,No,Yes,Yes,Low,India,,53,4.5,Not Eco
+F181,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste offer,Plastic,No,No,Yes,Yes,No,No,Low,India,246,43,3.6,Not Eco
+F095,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,Yes,No,No,Yes,Yes,Yes,Medium,India,147,44,4.7,Not Eco
+F099,packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Glass,Yes,Yes,No,No,Yes,No,High,India,35,52,5,Eco
+F188,Organic Honey,Pure natural honey offer,,No additives,Metal,No,Yes,No,Yes,No,No,High,India,551,9,4.2,Not Eco
+F116,Organic Pulses,Naturally grown pulses,Lentils,organic farming pack,Paper,Yes,No,No,No,Yes,No,Low,India,278,10,4,Eco
+F191,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Paper,Yes,No,Yes,No,No,Yes,Low,India,525,49,4.4,Eco
+F160,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,No,No,No,No,No,No,Low,India,386,28,4.6,Not Eco
+F161,,Pure natural honey,Honey,No additives new,Glass,No,Yes,No,No,Yes,Yes,High,India,330,17,3.7,Eco
+F067,Cold Drink,Carbonated soft drink,"sugar, water",Refreshing,Metal,No,Yes,Yes,Yes,No,No,High,India,328,18,4.1,Eco
+F128,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Paper,No,Yes,No,No,Yes,No,High,India,113,47,4.9,Not Eco
+F018,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Metal,,No,Yes,No,No,No,Medium,India,124,31,4.8,Not Eco
+F025,Cold Drink,Carbonated soft drink,"Sugar, water batch",Refreshing,Metal,No,No,No,Yes,No,No,Medium,India,294,54,4.2,Not Eco
+F054,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Paper,No,No,No,No,Yes,Yes,Low,India,530,34,4.7,Not Eco
+F058,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Glass,Yes,Yes,No,Yes,Yes,Yes,Low,India,568,9,3.6,Not Eco
+F067,Cold Drink,,"Sugar, water",Refreshing,Metal,No,Yes,Yes,Yes,No,No,High,India,328,18,4.1,Eco
+F104,Packaged Bread,Soft white bread,"Refined flour, yeast",,Metal,Yes,Yes,Yes,Yes,Yes,No,High,India,186,27,4.6,Not Eco
+F174,Organic Honey,Pure natural honey,Honey new,,Glass,Yes,Yes,No,No,Yes,Yes,Low,India,455,19,4.4,Not Eco
+F024,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Glass,Yes,No,Yes,Yes,No,Yes,High,India,98,46,3.6,Not Eco
+F114,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Paper,Yes,No,No,Yes,No,No,Low,India,271,50,4.8,Not Eco
+F032,organic Brown Rice pack,Whole grain organic rice,Brown rice,Organic certified,,No,No,Yes,Yes,Yes,Yes,Low,India,347,,3.7,Not Eco
+F175,Organic Brown Rice,Whole grain organic rice,Brown rice batch,Organic certified,Paper,No,Yes,No,Yes,No,No,Low,India,435,52,4.9,Eco
+F086,Organic Spice Mix,Traditional spice blend,Natural spices new,No preservatives,Metal,Yes,No,No,Yes,No,No,Low,India,72,14,4.3,Eco
+F151,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,No,Yes,No,Yes,No,No,Medium,India,343,5,4.2,Not Eco
+F194,Organic Pulses,Naturally grown pulses,,Organic farming,Metal,No,No,Yes,No,No,Yes,High,India,81,42,4,Not Eco
+F127,Cold Drink,Carbonated soft drink,"Sugar, water",,Glass,Yes,Yes,Yes,Yes,Yes,Yes,High,India,58,,4.8,Eco
+F155,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,,Yes,Yes,No,No,Yes,No,High,India,116,46,4.8,Not Eco
+F130,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Paper,No,Yes,Yes,No,Yes,No,Medium,India,364,13,3.6,Not Eco
+F017,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,Yes,Yes,Yes,Yes,No,Yes,Medium,India,430,6,3.7,Eco
+F104,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,Yes,Yes,Yes,Yes,No,High,India,186,27,4.6,Not Eco
+F161,Organic Honey,Pure natural honey,Honey,No additives,,No,Yes,No,No,Yes,Yes,High,India,330,17,3.7,Eco
+F137,Green Tea Bags,Natural green tea,green tea leaves,Antioxidant rich,,Yes,Yes,No,Yes,Yes,Yes,Low,India,196,24,4.1,Not Eco
+F043,organic Spice Mix pack,Traditional spice blend new,Natural spices,No preservatives,Glass,,No,No,No,Yes,No,Medium,India,493,20,4.2,Eco
+F176,Organic Spice Mix,Traditional spice blend,natural spices,No preservatives,Metal,No,No,No,No,No,Yes,Low,India,43,38,4.3,Not Eco
+F039,Instant Noodles batch,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Metal,No,No,No,No,No,Yes,Medium,India,161,36,,Eco
+F170,Instant Noodles offer,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,Yes,No,Yes,No,No,Yes,Medium,India,295,2,4.6,Not Eco
+F026,Cooking Oil,Refined sunflower oil,sunflower oil,Light and healthy,Paper,No,No,Yes,No,Yes,No,High,India,209,22,,Not Eco
+F099,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Glass,Yes,Yes,No,No,Yes,No,High,India,35,52,5,Eco
+F050,Organic Honey,pure natural honey batch,Honey,,Glass,Yes,No,Yes,Yes,No,Yes,High,India,475,46,3.8,Not Eco
+F153,cold Drink,Carbonated soft drink,"Sugar, water new",Refreshing,Plastic,Yes,Yes,No,No,No,Yes,High,India,216,21,3.7,Eco
+F152,Instant Noodles,Quick cook noodles,"refined flour, preservatives offer",Fast cooking,Paper,Yes,Yes,Yes,Yes,No,Yes,Medium,India,344,46,4.4,Eco
+F013,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Paper,No,No,No,Yes,Yes,No,Medium,India,424,1,4.5,Eco
+F060,Chocolate Bar,Milk chocolate pack,"Sugar, cocoa",Rich taste,Glass,Yes,No,No,No,Yes,No,Medium,India,241,48,3.6,Eco
+F135,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Plastic,No,No,No,No,No,Yes,Low,India,201,37,4.4,Not Eco
+F057,Packaged Bread,Soft white bread,"refined flour, yeast",Fresh baked,Paper,Yes,Yes,No,No,No,Yes,Medium,India,557,6,4.5,Not Eco
+F036,Organic Honey,Pure natural honey,honey offer,no additives,Glass,No,Yes,Yes,Yes,No,Yes,Low,India,268,23,4.9,Not Eco
+F173,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,No,Yes,No,No,No,No,Medium,India,571,1,4.9,Eco
+F020,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked batch,Metal,No,Yes,No,No,No,Yes,Low,India,555,47,3.6,Not Eco
+F065,Chocolate Bar,Milk chocolate,"Sugar, cocoa pack",Rich taste new,,No,Yes,No,Yes,No,Yes,High,India,41,33,4.2,Eco
+F008,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Metal,No,No,Yes,No,Yes,No,High,India,427,57,4.3,Not Eco
+F144,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Glass,No,No,Yes,No,No,No,High,India,458,30,4.5,Eco
+F142,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Plastic,No,Yes,Yes,Yes,Yes,No,Low,India,509,29,3.7,Not Eco
+F115,,Milk chocolate,"Sugar, cocoa",,,No,Yes,No,No,Yes,Yes,Medium,India,270,60,3.6,Eco
+F143,Organic Brown Rice,Whole grain organic rice,Brown rice,organic certified batch,Paper,No,Yes,Yes,No,Yes,Yes,High,India,,,3.9,Not Eco
+F092,cold Drink,Carbonated soft drink,"Sugar, water",Refreshing batch,,No,Yes,Yes,Yes,No,No,Medium,India,200,54,3.6,Eco
+F098,Organic Honey,Pure natural honey,Honey pack,No additives,Plastic,Yes,Yes,No,Yes,No,No,Medium,India,109,35,4,Eco
+F066,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Metal,Yes,No,No,No,No,Yes,Low,India,159,40,4,Eco
+F032,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Metal,No,No,Yes,Yes,Yes,Yes,Low,India,347,39,3.7,Not Eco
+F191,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Paper,Yes,No,Yes,No,No,Yes,Low,India,525,49,4.4,Eco
+F086,Organic Spice Mix,Traditional spice blend pack,Natural spices,No preservatives,Metal,Yes,No,No,Yes,No,No,Low,India,72,14,4.3,Eco
+F051,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Plastic,No,Yes,Yes,No,No,Yes,High,India,350,24,4.8,Eco
+F153,Cold Drink offer,Carbonated soft drink,"Sugar, water",Refreshing,Plastic,Yes,Yes,No,No,No,Yes,High,India,216,21,3.7,Eco
+F186,Cooking Oil,Refined sunflower oil,Sunflower oil,light and healthy,Paper,Yes,No,No,No,Yes,Yes,Low,India,336,11,4.3,Not Eco
+F063,,Milk chocolate,"Sugar, cocoa",Rich taste,Plastic,Yes,Yes,Yes,No,Yes,No,Medium,India,42,15,5,Eco
+F190,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Paper,No,Yes,Yes,No,Yes,No,Medium,India,105,17,3.6,Eco
+F125,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Plastic,Yes,No,No,Yes,Yes,Yes,High,India,105,59,3.7,Not Eco
+F150,Green Tea Bags,natural green tea,Green tea leaves,Antioxidant rich,Glass,No,Yes,Yes,Yes,No,No,High,India,397,42,4.5,Eco
+F058,Packaged Bread,Soft white bread,"Refined flour, yeast new",Fresh baked,Glass,,Yes,No,Yes,Yes,Yes,Low,India,568,9,3.6,Not Eco
+F058,Packaged Bread,Soft white bread,"Refined flour, yeast",fresh baked,Glass,Yes,Yes,No,Yes,Yes,Yes,Low,India,568,9,3.6,Not Eco
+F086,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Metal,Yes,No,No,Yes,No,No,Low,India,72,14,4.3,Eco
+F049,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,Yes,No,Yes,Yes,No,No,High,India,175,26,3.9,Eco
+F180,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Plastic,No,Yes,No,Yes,Yes,No,Medium,India,147,10,4.3,Eco
+F170,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,Yes,No,Yes,No,No,Yes,Medium,India,295,2,4.6,Not Eco
+F070,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Glass,No,No,No,Yes,Yes,Yes,Medium,India,530,47,4.2,Not Eco
+F015,Organic Honey,Pure natural honey,Honey,,Glass,Yes,Yes,No,No,No,No,Medium,India,314,17,4.9,Not Eco
+F054,Organic Spice Mix,Traditional spice blend batch,Natural spices pack,No preservatives,Paper,No,No,No,No,Yes,Yes,Low,India,530,34,4.7,Eco
+F188,Organic Honey,Pure natural honey,Honey,no additives,Metal,No,Yes,No,Yes,No,No,High,India,551,9,4.2,Not Eco
+F101,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking offer,Paper,Yes,Yes,Yes,No,Yes,No,Low,India,95,2,4,Eco
+F008,Cooking Oil,Refined sunflower oil pack,Sunflower oil,Light and healthy batch,Metal,No,No,Yes,No,Yes,No,High,India,427,57,4.3,Not Eco
+F053,Organic Pulses,Naturally grown pulses,Lentils,,Glass,Yes,No,No,Yes,Yes,No,Low,India,573,21,3.9,Not Eco
+F060,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Glass,Yes,No,No,No,Yes,No,Medium,India,241,48,3.6,Eco
+F108,Organic Honey,Pure natural honey,Honey,No additives,Plastic,No,Yes,Yes,Yes,Yes,Yes,Low,India,567,58,4.9,Eco
+F005,Organic Spice Mix,traditional spice blend,Natural spices offer,No preservatives new,Paper,Yes,No,No,No,No,Yes,Low,India,275,43,3.7,Not Eco
+F103,Cold Drink,Carbonated soft drink new,"Sugar, water",Refreshing,Metal,No,Yes,No,No,Yes,Yes,Low,India,180,11,5,Eco
+F196,Organic Spice Mix,traditional spice blend,Natural spices,No preservatives,Plastic,Yes,Yes,No,Yes,Yes,No,Medium,India,232,42,3.8,Eco
+F006,Cold Drink,Carbonated soft drink,"sugar, water",Refreshing,Paper,No,No,Yes,No,No,Yes,Medium,India,158,23,4.8,Eco
+F109,organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Glass,,No,Yes,No,Yes,No,Low,India,199,24,3.7,Eco
+F116,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,Yes,No,No,No,Yes,No,Low,India,278,10,4,Eco
+F094,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Metal,No,No,Yes,No,Yes,No,High,India,180,17,3.5,Not Eco
+F047,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,Yes,Yes,No,No,Yes,Yes,Medium,India,103,7,3.7,Not Eco
+F099,Packaged Bread,Soft white bread new,"Refined flour, yeast",Fresh baked,Glass,Yes,Yes,No,No,Yes,No,High,India,35,52,5,Eco
+F055,Organic Honey new,,Honey,No additives,Paper,Yes,Yes,Yes,Yes,Yes,No,Medium,India,79,13,4.7,Eco
+F168,Green Tea Bags,Natural green tea,Green tea leaves pack,Antioxidant rich,Paper,No,No,No,Yes,No,No,Medium,India,123,1,4,Not Eco
+F052,Organic Honey,Pure natural honey,Honey,,Metal,Yes,Yes,No,Yes,No,Yes,Medium,India,117,34,4,Not Eco
+F144,Organic Pulses,Naturally grown pulses,Lentils,,Glass,,No,Yes,No,No,No,High,India,458,30,4.5,Eco
+F013,Organic Spice Mix,Traditional spice blend,,No preservatives,Paper,No,No,No,Yes,Yes,No,Medium,India,424,1,4.5,Eco
+F114,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Paper,Yes,No,No,Yes,No,No,Low,India,271,50,4.8,Not Eco
+F124,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Plastic,No,Yes,No,Yes,Yes,Yes,Low,India,181,49,4.2,Eco
+F106,,,Natural spices,no preservatives,,,No,Yes,Yes,No,No,High,India,164,32,4.4,Not Eco
+F158,Organic Brown Rice,Whole grain organic rice,,Organic certified,Paper,No,No,No,No,Yes,Yes,Low,India,247,55,4.7,Eco
+F147,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives new,Plastic,No,No,No,No,Yes,No,Low,India,349,18,3.6,Eco
+F145,Organic Honey,Pure natural honey,Honey,No additives,,Yes,No,No,Yes,No,Yes,Medium,India,381,8,4.1,Not Eco
+F120,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Glass,No,No,No,Yes,No,Yes,Medium,India,261,13,4.2,Not Eco
+F063,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Plastic,Yes,Yes,Yes,No,Yes,No,Medium,India,42,15,5,Eco
+F019,Instant Noodles offer,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Plastic,No,Yes,Yes,No,Yes,Yes,Low,India,349,20,4.8,Eco
+F092,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Paper,No,Yes,Yes,Yes,No,No,Medium,India,200,54,3.6,Eco
+F058,Packaged Bread,Soft white bread pack,"Refined flour, yeast",Fresh baked offer,Glass,Yes,Yes,No,Yes,Yes,Yes,Low,India,568,9,3.6,Not Eco
+F183,Packaged Bread,Soft white bread new,"Refined flour, yeast",Fresh baked,Metal,Yes,No,Yes,No,Yes,No,High,India,537,24,4.8,Not Eco
+F090,Organic Pulses,Naturally grown pulses new,Lentils batch,Organic farming,Paper,No,Yes,No,Yes,Yes,Yes,Low,India,199,14,4.9,Not Eco
+F117,Organic Pulses pack,Naturally grown pulses,Lentils,Organic farming,Metal,Yes,Yes,Yes,Yes,Yes,No,Low,India,177,59,4.1,Not Eco
+F062,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Glass,Yes,No,No,Yes,No,No,High,India,309,38,4.5,Eco
+F023,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich offer,Paper,Yes,Yes,Yes,No,Yes,Yes,High,India,560,30,3.5,Eco
+F127,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Glass,Yes,Yes,Yes,Yes,Yes,Yes,High,India,58,24,,Eco
+F137,green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Glass,Yes,Yes,No,Yes,Yes,Yes,Low,India,196,24,4.1,Not Eco
+F140,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,No,Yes,Yes,No,No,No,High,India,451,53,4.7,Not Eco
+F129,Green Tea Bags new,Natural green tea,Green tea leaves,Antioxidant rich,,Yes,Yes,No,No,No,No,Medium,India,568,25,3.6,Not Eco
+F058,Packaged Bread,Soft white bread,"Refined flour, yeast",fresh baked,Glass,Yes,Yes,No,Yes,Yes,Yes,Low,India,568,9,3.6,Not Eco
+F122,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Plastic,,No,Yes,No,Yes,No,High,India,182,28,3.7,Eco
+F001,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Plastic,No,Yes,No,Yes,Yes,No,Low,India,186,33,4.5,Not Eco
+F034,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Paper,,Yes,Yes,No,Yes,Yes,Medium,India,271,55,,Not Eco
+F096,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Glass,Yes,No,Yes,No,Yes,Yes,Low,India,128,23,4,Eco
+F126,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Plastic,Yes,Yes,No,No,No,Yes,High,India,406,,4.8,Eco
+F118,Green Tea Bags new,Natural green tea,Green tea leaves,Antioxidant rich,Plastic,No,Yes,Yes,No,No,Yes,Medium,India,179,45,5,Eco
+F048,Packaged Bread pack,Soft white bread offer,,Fresh baked,,Yes,No,No,Yes,Yes,No,Medium,India,345,51,4.5,Eco
+F089,Cooking Oil,Refined sunflower oil,sunflower oil new,Light and healthy,Glass,Yes,No,Yes,Yes,Yes,No,High,India,40,56,3.7,Eco
+F117,Organic Pulses,Naturally grown pulses,Lentils,,Metal,Yes,Yes,Yes,Yes,Yes,No,Low,India,177,59,4.1,Not Eco
+F129,Green Tea Bags,Natural green tea,green tea leaves,Antioxidant rich,,Yes,Yes,No,No,No,No,Medium,India,568,25,3.6,Not Eco
+F016,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,No,No,Yes,Yes,No,Yes,High,India,248,47,4.2,Not Eco
+F189,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Glass,Yes,Yes,No,No,No,Yes,Low,India,195,60,3.9,Eco
+F192,Organic Spice Mix,Traditional spice blend,Natural spices,no preservatives,Paper,Yes,No,Yes,Yes,No,No,Low,India,115,20,4.3,Not Eco
+F191,Cooking Oil,refined sunflower oil,sunflower oil,Light and healthy,Paper,Yes,No,Yes,No,No,Yes,Low,India,525,49,,Eco
+F069,Organic Honey,Pure natural honey,Honey,No additives,Paper,No,Yes,No,No,No,No,Low,India,132,39,4.7,Eco
+F022,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Plastic,Yes,Yes,Yes,Yes,No,No,Low,India,429,22,3.7,Not Eco
+F093,organic Pulses,Naturally grown pulses,Lentils,Organic farming batch,Glass,Yes,No,No,No,No,No,High,India,558,29,4,Eco
+F195,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Plastic,No,Yes,No,No,No,No,Low,India,599,7,3.9,Not Eco
+F076,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,Yes,No,No,Yes,Yes,No,Medium,India,,60,4.7,Eco
+F154,Packaged Bread,Soft white bread,,Fresh baked,Metal,Yes,No,No,Yes,No,Yes,Low,India,275,14,4.5,Eco
+F144,Organic Pulses,,Lentils,Organic farming,Glass,No,No,Yes,No,No,No,High,India,458,30,4.5,Eco
+F179,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,Yes,No,Yes,Yes,No,Yes,Low,India,519,3,3.6,Not Eco
+F086,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Metal,Yes,No,No,Yes,No,No,Low,India,72,14,4.3,Eco
+F185,,Milk chocolate,"Sugar, cocoa",rich taste,Glass,No,No,No,No,No,Yes,Medium,India,326,50,4.4,Eco
+F029,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Paper,No,Yes,No,No,No,No,High,India,572,35,3.9,Not Eco
+F069,Organic Honey,Pure natural honey,Honey,No additives,Paper,No,Yes,No,No,No,No,Low,India,132,39,4.7,Eco
+F047,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,,Yes,No,No,Yes,Yes,Medium,India,103,7,3.7,Not Eco
+F094,Organic Spice Mix,Traditional spice blend new,Natural spices,No preservatives,Metal,No,No,Yes,No,Yes,No,High,India,180,17,,Not Eco
+F190,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Paper,No,Yes,Yes,No,Yes,No,Medium,India,105,17,3.6,Not Eco
+F197,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Plastic,,No,Yes,Yes,Yes,No,High,India,495,5,3.8,Not Eco
+F144,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Glass,No,No,Yes,No,No,No,High,India,458,30,4.5,Eco
+F176,organic Spice Mix,,Natural spices,No preservatives,Metal,No,No,No,No,No,Yes,Low,India,43,38,4.3,Not Eco
+F085,Cold Drink,Carbonated soft drink batch,"Sugar, water",Refreshing,Metal,,No,No,Yes,Yes,No,High,India,178,32,4.8,Eco
+F039,Instant Noodles pack,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Metal,No,No,No,No,No,Yes,Medium,India,161,36,4.2,Eco
+F100,Organic Spice Mix,Traditional spice blend pack,Natural spices,No preservatives,Glass,,Yes,Yes,No,No,Yes,Medium,India,292,53,,Eco
+F033,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Glass,No,No,No,Yes,Yes,Yes,Low,India,,42,3.5,Not Eco
+F101,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,Yes,Yes,Yes,No,Yes,No,Low,India,,2,4,Eco
+F023,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Paper,Yes,Yes,Yes,No,Yes,Yes,High,India,560,30,3.5,Eco
+F010,Instant Noodles,Quick cook noodles,,Fast cooking,Glass,No,No,Yes,Yes,Yes,No,Medium,India,394,51,3.8,Eco
+F069,Organic Honey pack,Pure natural honey,Honey,No additives,Paper,No,Yes,No,No,No,No,Low,India,132,39,4.7,Eco
+F100,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives batch,Glass,Yes,Yes,Yes,No,No,Yes,Medium,India,292,53,4.2,Eco
+F034,Chocolate Bar,Milk chocolate,"Sugar, cocoa",,Paper,,Yes,Yes,No,Yes,Yes,Medium,India,271,,4.3,Not Eco
+F180,Green Tea Bags,Natural green tea batch,Green tea leaves,Antioxidant rich,Plastic,No,Yes,No,Yes,Yes,No,Medium,India,147,10,4.3,Eco
+F138,Organic Brown Rice,Whole grain organic rice offer,Brown rice,Organic certified,Glass,Yes,No,Yes,No,No,No,Low,India,98,9,4.7,Not Eco
+F147,Organic Spice Mix,Traditional spice blend,,No preservatives,Plastic,No,No,No,No,Yes,No,Low,India,349,18,3.6,Eco
+F186,Cooking Oil,Refined sunflower oil,Sunflower oil,,Paper,Yes,No,No,No,Yes,Yes,Low,India,336,11,4.3,Not Eco
+F096,Green Tea Bags pack,natural green tea,Green tea leaves,Antioxidant rich,Glass,Yes,No,Yes,No,Yes,Yes,Low,India,128,23,4,Not Eco
+F001,cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Plastic,No,Yes,No,Yes,Yes,No,Low,India,,33,4.5,Not Eco
+F069,Organic Honey,Pure natural honey,Honey,No additives,Paper,No,Yes,No,No,No,No,Low,India,132,39,4.7,Eco
+F004,Chocolate Bar,Milk chocolate,"Sugar, cocoa",,Glass,Yes,Yes,No,No,No,No,High,India,269,57,4.5,Not Eco
+F016,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,No,No,Yes,Yes,No,Yes,High,India,248,47,4.2,Not Eco
+F024,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Glass,Yes,No,Yes,Yes,No,Yes,High,India,98,46,3.6,Not Eco
+F080,organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,Yes,No,Yes,No,No,Yes,High,India,340,13,4.4,Eco
+F002,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,No,Yes,No,No,Yes,No,Medium,India,436,18,4.9,Eco
+F128,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Paper,No,Yes,No,No,Yes,No,High,India,113,47,4.9,Not Eco
+F160,Organic Pulses,Naturally grown pulses pack,,organic farming,Paper,No,No,No,No,No,No,Low,India,386,28,4.6,Not Eco
+F084,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,No,No,No,No,No,No,High,India,106,4,4.7,Eco
+F152,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,Yes,Yes,Yes,Yes,No,Yes,Medium,India,344,46,4.4,Not Eco
+F140,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,,No,Yes,Yes,No,No,No,High,India,451,53,4.7,Not Eco
+F178,Instant Noodles,,"Refined flour, preservatives",Fast cooking,Glass,No,No,Yes,Yes,Yes,Yes,Low,India,401,45,4.1,Not Eco
+F163,Organic Brown Rice,whole grain organic rice,Brown rice,Organic certified,Metal,Yes,No,Yes,Yes,Yes,Yes,Medium,India,59,58,4.6,Not Eco
+F124,Instant Noodles,Quick cook noodles pack,"Refined flour, preservatives",Fast cooking,Plastic,No,Yes,No,Yes,Yes,Yes,Low,India,181,49,4.2,Eco
+F033,Cold Drink,Carbonated soft drink,"Sugar, water batch",Refreshing,Glass,No,No,No,Yes,Yes,Yes,Low,India,80,42,3.5,Not Eco
+F161,Organic Honey,Pure natural honey,Honey,No additives pack,Glass,No,Yes,No,No,Yes,Yes,High,India,330,17,3.7,Eco
+F189,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Glass,Yes,Yes,No,No,No,Yes,Low,India,195,60,3.9,Eco
+F179,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,Yes,No,Yes,Yes,No,Yes,Low,India,,3,3.6,Not Eco
+F171,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Paper,No,Yes,Yes,No,No,No,High,India,416,12,4.8,Not Eco
+F101,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,Yes,Yes,Yes,No,Yes,No,Low,India,95,2,4,Eco
+F012,,Whole grain organic rice,Brown rice,Organic certified,Glass,No,No,No,No,Yes,No,High,India,448,19,3.9,Eco
+F067,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,No,Yes,Yes,Yes,No,No,High,India,328,18,4.1,Eco
+F065,Chocolate Bar,,"Sugar, cocoa",rich taste,Paper,No,Yes,No,Yes,No,Yes,High,India,,33,4.2,Eco
+F161,Organic Honey,Pure natural honey,Honey,No additives,Glass,No,Yes,No,No,Yes,Yes,High,India,330,17,3.7,Eco
+F168,,Natural green tea,green tea leaves,Antioxidant rich,Paper,No,No,No,Yes,No,No,Medium,India,123,1,4,Not Eco
+F074,Organic Spice Mix,traditional spice blend new,Natural spices offer,No preservatives,Plastic,Yes,No,Yes,Yes,Yes,Yes,Low,India,270,3,4.7,Eco
+F043,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Glass,No,No,No,No,Yes,No,Medium,India,493,20,4.2,Eco
+F044,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,Yes,No,Yes,No,No,No,High,India,63,47,3.7,Not Eco
+F029,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Paper,No,Yes,No,No,No,No,High,India,572,,3.9,Not Eco
+F141,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking new,Metal,No,Yes,Yes,Yes,No,No,Medium,India,157,43,4.5,Eco
+F012,Organic Brown Rice,whole grain organic rice offer,Brown rice,Organic certified,Glass,No,No,No,No,Yes,No,High,India,448,19,3.9,Not Eco
+F095,Cold Drink,Carbonated soft drink,"Sugar, water",refreshing,Metal,Yes,No,No,Yes,Yes,Yes,Medium,India,147,44,4.7,Not Eco
+F046,cooking Oil,Refined sunflower oil,Sunflower oil new,Light and healthy,Glass,No,No,Yes,No,Yes,Yes,Low,India,114,53,4.5,Not Eco
+F130,Organic Spice Mix,traditional spice blend,Natural spices,No preservatives,Paper,No,Yes,Yes,No,Yes,No,Medium,India,364,13,3.6,Not Eco
+F035,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Metal,Yes,No,Yes,Yes,No,No,Low,India,332,34,5,Not Eco
+F081,Green Tea Bags,natural green tea pack,Green tea leaves,Antioxidant rich,Plastic,No,Yes,Yes,Yes,Yes,Yes,Medium,India,163,6,4.2,Not Eco
+F090,Organic Pulses,Naturally grown pulses,lentils,Organic farming batch,Paper,No,Yes,No,Yes,Yes,Yes,Low,India,199,14,4.9,Not Eco
+F008,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Metal,No,No,Yes,No,Yes,No,High,India,,57,,Not Eco
+F093,,Naturally grown pulses,Lentils pack,Organic farming,Glass,Yes,No,No,No,No,No,High,India,558,29,4,Eco
+F154,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,No,No,Yes,No,Yes,Low,India,275,14,4.5,Not Eco
+F090,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,No,Yes,No,Yes,Yes,Yes,Low,India,199,14,4.9,Eco
+F162,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Metal,Yes,No,Yes,No,Yes,No,Low,India,561,12,5,Not Eco
+F115,Chocolate Bar,Milk chocolate,"Sugar, cocoa pack",Rich taste,Metal,No,Yes,No,No,Yes,Yes,Medium,India,270,60,3.6,Eco
+F105,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Glass,Yes,Yes,No,No,Yes,No,Low,India,495,31,4.8,Not Eco
+F135,Cold Drink,Carbonated soft drink,"Sugar, water",refreshing,Plastic,No,No,No,No,No,Yes,Low,India,201,37,4.4,Eco
+F196,organic Spice Mix,Traditional spice blend,Natural spices,No preservatives pack,Plastic,Yes,Yes,No,Yes,Yes,No,Medium,India,232,42,3.8,Eco
+F058,Packaged Bread offer,Soft white bread,"Refined flour, yeast pack",Fresh baked,Glass,Yes,Yes,No,Yes,Yes,Yes,Low,India,568,9,,Not Eco
+F114,,Whole grain organic rice,Brown rice,Organic certified,Paper,,No,No,Yes,No,No,Low,India,271,50,4.8,Not Eco
+F075,Packaged Bread,,"Refined flour, yeast",Fresh baked,Metal,No,Yes,Yes,No,No,No,Medium,India,129,33,3.8,Eco
+F157,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,,Yes,No,Yes,No,Yes,Yes,High,India,299,43,4.4,Eco
+F120,Instant Noodles,Quick cook noodles offer,"refined flour, preservatives",Fast cooking,,No,No,No,Yes,No,Yes,Medium,India,261,13,4.2,Not Eco
+F164,Organic Honey,Pure natural honey,Honey,No additives,Metal,No,Yes,No,No,No,Yes,Low,India,199,10,4.1,Not Eco
+F021,Organic Spice Mix pack,Traditional spice blend,Natural spices,No preservatives,Glass,No,Yes,No,No,No,No,Medium,India,294,1,4.7,Eco
+F164,Organic Honey,Pure natural honey,Honey,No additives,Metal,No,Yes,No,No,No,Yes,Low,India,199,10,4.1,Eco
+F138,organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Glass,Yes,No,Yes,No,No,No,Low,India,98,9,4.7,Not Eco
+F101,Instant Noodles,,"Refined flour, preservatives",Fast cooking new,Paper,Yes,Yes,Yes,No,Yes,No,Low,India,95,2,4,Not Eco
+F152,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking batch,Paper,Yes,Yes,Yes,Yes,No,Yes,Medium,India,344,46,4.4,Not Eco
+F192,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Paper,Yes,No,Yes,Yes,No,No,Low,India,115,20,4.3,Eco
+F177,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Metal,No,No,Yes,Yes,Yes,No,Medium,India,320,41,4.3,Eco
+F099,,Soft white bread,"refined flour, yeast",Fresh baked,Glass,Yes,Yes,No,No,Yes,No,High,India,35,52,5,Eco
+F036,Organic Honey,Pure natural honey,honey offer,No additives,Glass,No,Yes,Yes,Yes,No,Yes,Low,India,268,23,4.9,Not Eco
+F096,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich offer,Glass,Yes,No,Yes,No,Yes,Yes,Low,India,128,23,4,Not Eco
+F152,Instant Noodles,Quick cook noodles,,Fast cooking,Paper,Yes,Yes,Yes,Yes,No,Yes,Medium,India,344,46,4.4,Not Eco
+F151,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,No,Yes,No,Yes,No,No,Medium,India,343,5,4.2,Eco
+F190,Green Tea Bags,Natural green tea,green tea leaves,Antioxidant rich,Paper,No,Yes,Yes,No,Yes,No,Medium,India,105,17,3.6,Not Eco
+F037,green Tea Bags batch,Natural green tea,Green tea leaves,Antioxidant rich pack,Metal,No,Yes,No,No,Yes,Yes,Medium,India,453,50,3.7,Not Eco
+F012,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Glass,,No,No,No,Yes,No,High,India,448,19,3.9,Not Eco
+F113,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Glass,No,No,Yes,No,No,Yes,High,India,,28,3.7,Eco
+F183,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,No,Yes,No,Yes,No,High,India,537,24,4.8,Eco
+F013,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Paper,No,No,No,Yes,Yes,No,Medium,India,424,1,4.5,Eco
+F023,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich offer,Paper,Yes,Yes,Yes,No,Yes,Yes,High,India,560,30,3.5,Eco
+F099,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Glass,Yes,Yes,No,No,Yes,No,High,India,35,52,5,Eco
+F105,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Glass,Yes,Yes,No,No,Yes,No,Low,India,495,31,4.8,Not Eco
+F030,Cold Drink new,Carbonated soft drink,"Sugar, water",Refreshing,Metal,No,Yes,No,No,Yes,No,Medium,India,288,38,4.4,Not Eco
+F017,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing pack,Metal,Yes,Yes,Yes,Yes,No,Yes,Medium,India,430,6,3.7,Eco
+F113,Cold Drink,Carbonated soft drink,"Sugar, water offer",Refreshing,Glass,No,No,Yes,No,No,Yes,High,India,499,28,3.7,Not Eco
+F062,Organic Pulses,Naturally grown pulses,Lentils pack,Organic farming,Glass,Yes,No,No,Yes,No,No,High,India,309,38,4.5,Eco
+F084,,soft white bread offer,"Refined flour, yeast",Fresh baked,Metal,No,No,No,No,No,No,High,India,106,4,4.7,Eco
+F112,Instant Noodles,Quick cook noodles new,"Refined flour, preservatives new",Fast cooking,Paper,No,Yes,Yes,No,No,No,High,India,217,8,3.7,Not Eco
+F086,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Metal,Yes,No,No,Yes,No,No,Low,India,72,14,4.3,Eco
+F141,Instant Noodles,Quick cook noodles,"Refined flour, preservatives new",Fast cooking offer,Metal,No,Yes,Yes,Yes,No,No,Medium,India,157,43,4.5,Eco
+F187,Organic Honey,Pure natural honey,Honey,No additives,Glass,Yes,No,Yes,Yes,No,No,Low,India,304,,4.5,Not Eco
+F019,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Plastic,No,Yes,Yes,No,Yes,Yes,Low,India,349,20,4.8,Eco
+F177,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Metal,No,No,Yes,Yes,Yes,No,Medium,India,320,41,4.3,Eco
+F100,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Glass,Yes,Yes,Yes,No,No,Yes,Medium,India,292,53,4.2,Eco
+F140,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,No,Yes,Yes,No,No,No,High,India,451,53,4.7,Not Eco
+F189,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Glass,Yes,Yes,No,No,No,Yes,Low,India,195,60,3.9,Eco
+F147,organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,,No,No,No,No,Yes,No,Low,India,349,18,3.6,Eco
+F076,Organic Pulses,Naturally grown pulses,Lentils,organic farming,Paper,Yes,No,No,Yes,Yes,No,Medium,India,482,60,4.7,Eco
+F009,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking new,Glass,,No,Yes,Yes,Yes,No,Medium,India,227,57,3.9,Eco
+F199,Organic Pulses,Naturally grown pulses,,Organic farming,Paper,Yes,No,No,Yes,No,No,Medium,India,550,21,4.9,Not Eco
+F028,Packaged Bread,Soft white bread,,Fresh baked batch,Metal,Yes,Yes,No,Yes,No,No,Low,India,334,54,4.5,Not Eco
+F128,,Natural green tea new,Green tea leaves,Antioxidant rich,Paper,No,Yes,No,No,Yes,No,High,India,113,47,4.9,Not Eco
+F052,Organic Honey,Pure natural honey batch,Honey,No additives,Metal,Yes,Yes,No,Yes,No,Yes,Medium,India,117,34,4,Not Eco
+F083,Organic Honey,,Honey new,No additives,Paper,Yes,No,Yes,Yes,No,Yes,Medium,India,296,,3.9,Not Eco
+F111,Organic Honey,Pure natural honey,Honey,No additives,Glass,No,Yes,No,Yes,Yes,Yes,High,India,317,2,4.2,Eco
+F144,Organic Pulses,Naturally grown pulses,lentils,Organic farming,Glass,No,No,Yes,No,No,No,High,India,458,30,4.5,Eco
+F117,Organic Pulses,Naturally grown pulses,Lentils offer,Organic farming,Metal,Yes,Yes,Yes,Yes,Yes,No,Low,India,177,59,4.1,Not Eco
+F069,Organic Honey,Pure natural honey,,No additives,Paper,No,Yes,No,No,No,No,Low,India,132,39,4.7,Eco
+F099,packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked pack,Glass,Yes,Yes,No,No,Yes,No,High,India,35,52,5,Eco
+F140,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,No,Yes,Yes,No,No,No,High,India,451,53,4.7,Not Eco
+F025,Cold Drink,,"Sugar, water batch",Refreshing,Metal,No,No,No,Yes,No,No,Medium,India,294,54,4.2,Eco
+F180,Green Tea Bags offer,Natural green tea,Green tea leaves pack,Antioxidant rich,Plastic,No,Yes,No,Yes,Yes,No,Medium,India,,10,4.3,Eco
+F123,Cooking Oil,Refined sunflower oil new,Sunflower oil,Light and healthy,Glass,No,Yes,Yes,Yes,Yes,No,Low,India,134,30,4.6,Eco
+F053,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Glass,Yes,No,No,Yes,Yes,No,Low,India,573,21,3.9,Eco
+F151,Instant Noodles,Quick cook noodles offer,,Fast cooking,Paper,No,Yes,No,Yes,No,No,Medium,India,343,5,4.2,Not Eco
+F144,Organic Pulses,Naturally grown pulses,lentils,Organic farming pack,Glass,,No,Yes,No,No,No,High,India,458,30,,Eco
+F057,Packaged Bread,Soft white bread,"Refined flour, yeast pack",Fresh baked,Paper,Yes,Yes,No,No,No,Yes,Medium,India,557,6,4.5,Not Eco
+F039,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,,,No,No,No,No,Yes,Medium,India,161,36,4.2,Eco
+F109,organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,,No,No,Yes,No,Yes,No,Low,India,199,24,3.7,Eco
+F181,Chocolate Bar,Milk chocolate batch,"Sugar, cocoa",Rich taste,Plastic,No,No,Yes,Yes,No,No,Low,India,246,43,3.6,Not Eco
+F042,,Whole grain organic rice,brown rice,Organic certified,Metal,Yes,Yes,No,Yes,No,Yes,Medium,India,130,42,3.7,Eco
+F186,Cooking Oil,Refined sunflower oil,,Light and healthy new,Paper,Yes,No,No,No,Yes,Yes,Low,India,336,11,4.3,Not Eco
+F167,Organic Pulses,naturally grown pulses,Lentils,Organic farming,,Yes,No,Yes,Yes,Yes,No,Medium,India,237,23,3.6,Not Eco
+F142,Chocolate Bar,Milk chocolate batch,"Sugar, cocoa",Rich taste,Plastic,,Yes,Yes,Yes,Yes,No,Low,India,509,29,3.7,Not Eco
+F122,Cold Drink,carbonated soft drink new,,Refreshing,Plastic,No,No,Yes,No,Yes,No,High,India,182,28,3.7,Eco
+F133,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Metal,Yes,Yes,No,Yes,No,Yes,Low,India,497,52,4.4,Not Eco
+F163,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Metal,Yes,No,Yes,Yes,Yes,Yes,Medium,India,59,58,4.6,Not Eco
+F075,Packaged Bread offer,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,,Yes,Yes,No,No,No,Medium,India,129,33,3.8,Eco
+F146,packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Paper,No,No,Yes,No,Yes,Yes,High,India,,3,4.1,Not Eco
+F076,organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,Yes,No,No,Yes,Yes,No,Medium,India,482,60,,Eco
+F009,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking pack,Glass,No,No,Yes,Yes,Yes,No,Medium,India,227,57,3.9,Eco
+F074,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Plastic,Yes,No,Yes,Yes,Yes,Yes,Low,India,270,3,4.7,Eco
+F186,Cooking Oil,Refined sunflower oil,Sunflower oil,light and healthy,Paper,Yes,No,No,No,Yes,Yes,Low,India,336,11,4.3,Eco
+F145,Organic Honey,Pure natural honey,Honey,,Metal,Yes,No,No,Yes,No,Yes,Medium,India,381,8,4.1,Not Eco
+F007,Packaged Bread,Soft white bread,,Fresh baked,Metal,Yes,Yes,No,No,No,No,High,India,364,11,3.6,Not Eco
+F174,Organic Honey,Pure natural honey,Honey,No additives,Glass,Yes,Yes,No,No,Yes,Yes,Low,India,455,19,4.4,Eco
+F141,Instant Noodles,,"Refined flour, preservatives",Fast cooking,Metal,No,Yes,Yes,Yes,No,No,Medium,India,157,43,4.5,Eco
+F168,Green Tea Bags,Natural green tea,green tea leaves,Antioxidant rich batch,Paper,No,No,No,Yes,No,No,Medium,India,123,1,4,Not Eco
+F170,Instant Noodles pack,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,Yes,No,Yes,No,No,Yes,Medium,India,295,2,4.6,Not Eco
+F137,Green Tea Bags,,Green tea leaves,Antioxidant rich,Glass,Yes,Yes,No,Yes,Yes,Yes,Low,India,196,24,4.1,Not Eco
+F178,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Glass,No,No,Yes,Yes,Yes,Yes,Low,India,401,45,4.1,Not Eco
+F027,Organic Brown Rice,Whole grain organic rice,Brown rice batch,Organic certified,,No,No,Yes,No,No,Yes,High,India,483,3,4.4,Eco
+F122,cold Drink,Carbonated soft drink,"Sugar, water",refreshing,Plastic,No,No,Yes,No,Yes,No,High,India,182,28,3.7,Eco
+F194,Organic Pulses,Naturally grown pulses,Lentils,Organic farming new,Metal,No,No,Yes,No,No,Yes,High,India,,42,4,Not Eco
+F005,Organic Spice Mix,,,No preservatives offer,Paper,Yes,No,No,No,No,Yes,Low,India,275,43,3.7,Not Eco
+F029,cooking Oil,refined sunflower oil,Sunflower oil batch,Light and healthy pack,,No,Yes,No,No,No,No,High,India,572,35,3.9,Not Eco
+F165,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,,No,No,Yes,No,No,High,India,71,35,3.7,Not Eco
+F166,Organic Honey,Pure natural honey batch,Honey,No additives,Metal,No,Yes,Yes,Yes,Yes,No,Low,India,171,5,3.7,Eco
+F083,Organic Honey,Pure natural honey,Honey,No additives,Paper,Yes,No,Yes,Yes,No,Yes,Medium,India,296,54,3.9,Not Eco
+F136,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Plastic,Yes,No,Yes,No,Yes,No,Medium,India,46,12,4.1,Not Eco
+F109,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Glass,No,No,Yes,No,Yes,No,Low,India,199,24,3.7,Eco
+F065,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste pack,Paper,No,Yes,No,Yes,No,Yes,High,India,41,33,4.2,Eco
+F086,,Traditional spice blend,Natural spices,no preservatives,Metal,Yes,No,No,Yes,No,No,Low,India,72,14,4.3,Eco
+F145,Organic Honey,Pure natural honey batch,Honey,no additives,Metal,Yes,No,No,Yes,No,Yes,Medium,India,381,8,4.1,Not Eco
+F071,Organic Brown Rice,Whole grain organic rice,brown rice,Organic certified,Paper,Yes,Yes,No,No,No,Yes,Low,India,,54,4.3,Eco
+F045,Instant Noodles,,"Refined flour, preservatives",Fast cooking,Plastic,No,Yes,No,Yes,Yes,Yes,High,India,554,45,3.6,Not Eco
+F132,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Paper,No,Yes,No,No,Yes,No,High,India,509,45,5,Eco
+F036,Organic Honey,Pure natural honey,Honey,No additives,Glass,No,Yes,Yes,Yes,No,Yes,Low,India,268,23,4.9,Not Eco
+F070,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Glass,No,No,No,Yes,Yes,Yes,Medium,India,530,47,4.2,Not Eco
+F159,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Metal,No,No,No,No,No,Yes,Medium,India,221,55,4.7,Eco
+F019,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Plastic,No,Yes,Yes,No,Yes,Yes,Low,India,349,20,4.8,Eco
+F189,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Glass,Yes,Yes,No,No,No,Yes,Low,India,195,60,3.9,Eco
+F108,Organic Honey,,Honey,No additives,Plastic,No,Yes,Yes,Yes,Yes,Yes,Low,India,567,58,4.9,Eco
+F182,,Traditional spice blend new,natural spices batch,No preservatives,Glass,Yes,Yes,Yes,No,No,Yes,High,India,308,1,4.8,Not Eco
+F167,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Plastic,Yes,No,Yes,Yes,Yes,No,Medium,India,237,23,3.6,Not Eco
+F091,Packaged Bread,Soft white bread pack,"Refined flour, yeast",Fresh baked,Glass,No,No,No,No,Yes,No,Low,India,533,22,4.4,Not Eco
+F090,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,No,Yes,No,Yes,Yes,Yes,Low,India,199,14,4.9,Not Eco
+F019,Instant Noodles,,"Refined flour, preservatives",Fast cooking,Plastic,No,Yes,Yes,No,Yes,Yes,Low,India,349,20,4.8,Eco
+F039,Instant Noodles,Quick cook noodles batch,"Refined flour, preservatives",fast cooking,Metal,No,No,No,No,No,Yes,Medium,India,161,36,4.2,Eco
+F126,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Plastic,Yes,Yes,No,No,No,Yes,High,India,406,1,4.8,Eco
+F195,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Plastic,No,Yes,No,No,No,No,Low,India,599,7,3.9,Not Eco
+F173,Packaged Bread pack,Soft white bread,"Refined flour, yeast new",Fresh baked,Metal,No,Yes,No,No,No,No,Medium,India,571,1,4.9,Eco
+F141,Instant Noodles,Quick cook noodles,"Refined flour, preservatives pack",Fast cooking,Metal,No,Yes,Yes,Yes,No,No,Medium,India,157,43,4.5,Eco
+F126,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Plastic,Yes,Yes,No,No,No,Yes,High,India,406,1,4.8,Eco
+F058,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Glass,Yes,Yes,No,Yes,Yes,Yes,Low,India,568,9,3.6,Not Eco
+F148,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Glass,Yes,No,Yes,No,No,No,Medium,India,320,35,4.1,Eco
+F200,Organic Spice Mix new,Traditional spice blend,Natural spices,No preservatives,Paper,No,Yes,Yes,No,No,No,Medium,India,314,48,4.6,Not Eco
+F061,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Plastic,Yes,No,Yes,Yes,Yes,Yes,High,India,435,50,4.1,Eco
+F127,cold Drink,carbonated soft drink,"Sugar, water",Refreshing new,Glass,Yes,Yes,Yes,Yes,Yes,Yes,High,India,58,24,4.8,Eco
+F105,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy batch,Glass,Yes,Yes,No,No,Yes,No,Low,India,495,31,4.8,Not Eco
+F167,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Plastic,,No,Yes,Yes,Yes,No,Medium,India,237,23,3.6,Not Eco
+F001,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Plastic,No,Yes,No,Yes,Yes,No,Low,India,186,33,4.5,Not Eco
+F131,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Metal,Yes,No,Yes,No,Yes,Yes,Low,India,505,35,4.7,Eco
+F092,Cold Drink offer,Carbonated soft drink batch,"Sugar, water",Refreshing,Paper,No,Yes,Yes,Yes,No,No,Medium,India,200,54,3.6,Eco
+F190,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Paper,No,Yes,Yes,No,Yes,No,Medium,India,105,17,3.6,Not Eco
+F191,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Paper,Yes,No,Yes,No,No,Yes,Low,India,525,49,4.4,Eco
+F113,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Glass,No,No,Yes,No,No,Yes,High,India,499,28,3.7,Eco
+F153,Cold Drink offer,Carbonated soft drink,"Sugar, water",Refreshing,Plastic,Yes,Yes,No,No,No,Yes,High,India,216,21,3.7,Eco
+F056,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Glass,Yes,No,No,Yes,No,Yes,Medium,India,517,,4.4,Not Eco
+F161,Organic Honey,Pure natural honey,Honey,no additives,Glass,,Yes,No,No,Yes,Yes,High,India,330,17,3.7,Eco
+F166,Organic Honey new,Pure natural honey,Honey,No additives,Metal,No,Yes,Yes,Yes,Yes,No,Low,India,171,5,3.7,Eco
+F117,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,,Yes,Yes,Yes,Yes,Yes,No,Low,India,177,59,4.1,Not Eco
+F134,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",fast cooking,Paper,Yes,Yes,Yes,Yes,Yes,No,Low,India,415,24,4.4,Not Eco
+F058,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Glass,Yes,Yes,No,Yes,Yes,Yes,Low,India,568,9,3.6,Not Eco
+F044,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,Yes,No,Yes,No,No,No,High,India,63,47,3.7,Not Eco
+F173,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,No,Yes,No,No,No,No,Medium,India,571,1,4.9,Eco
+F160,Organic Pulses batch,Naturally grown pulses,Lentils,Organic farming,Paper,No,No,No,No,No,No,Low,India,386,28,4.6,Not Eco
+F173,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,No,Yes,No,No,No,No,Medium,India,571,1,4.9,Not Eco
+F061,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",,Plastic,Yes,No,Yes,Yes,Yes,Yes,High,India,435,50,4.1,Eco
+F047,Cold Drink batch,Carbonated soft drink,"Sugar, water",Refreshing,Metal,Yes,Yes,No,No,Yes,Yes,Medium,India,103,7,3.7,Not Eco
+F149,,Refined sunflower oil,Sunflower oil batch,Light and healthy offer,Paper,No,No,Yes,Yes,No,Yes,High,India,281,35,3.8,Eco
+F080,Organic Pulses batch,Naturally grown pulses,Lentils,Organic farming,,Yes,No,Yes,No,No,Yes,High,India,340,13,4.4,Eco
+F118,Green Tea Bags,Natural green tea,,,Plastic,No,Yes,Yes,No,No,Yes,Medium,India,179,45,5,Eco
+F164,Organic Honey,Pure natural honey,Honey,,,No,Yes,No,No,No,Yes,Low,India,199,10,4.1,Not Eco
+F147,Organic Spice Mix,Traditional spice blend,natural spices,no preservatives,Plastic,,No,No,No,Yes,No,Low,India,349,18,3.6,Eco
+F020,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,No,Yes,No,No,No,Yes,Low,India,555,47,3.6,Not Eco
+F185,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Glass,,No,No,No,No,Yes,Medium,India,326,50,4.4,Eco
+F146,Packaged Bread,Soft white bread,"refined flour, yeast",Fresh baked batch,Paper,No,No,Yes,No,Yes,Yes,High,India,414,3,4.1,Eco
+F047,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,Yes,Yes,No,No,Yes,Yes,Medium,India,103,7,3.7,Not Eco
+F049,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,,Yes,No,Yes,Yes,No,No,High,India,175,26,3.9,Eco
+F014,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Paper,No,No,No,No,No,Yes,Low,India,,9,4.6,Not Eco
+F143,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Paper,No,Yes,Yes,No,Yes,Yes,High,India,156,30,3.9,Eco
+F159,Organic Pulses,naturally grown pulses,Lentils,Organic farming,Metal,No,No,No,No,No,Yes,Medium,India,221,,4.7,Not Eco
+F001,Cold Drink offer,Carbonated soft drink,"Sugar, water",Refreshing,Plastic,No,Yes,No,Yes,Yes,No,Low,India,186,33,4.5,Eco
+F117,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Metal,Yes,Yes,Yes,Yes,Yes,No,Low,India,177,59,4.1,Not Eco
+F054,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Paper,,No,No,No,Yes,Yes,Low,India,530,34,4.7,Eco
+F118,Green Tea Bags,Natural green tea,Green tea leaves offer,antioxidant rich pack,Plastic,No,Yes,Yes,No,No,Yes,Medium,India,179,45,5,Eco
+F003,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Paper,No,Yes,No,Yes,No,No,Medium,India,395,26,4.1,Not Eco
+F144,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Glass,No,No,Yes,No,No,No,High,India,458,30,4.5,Eco
+F185,,Milk chocolate,"Sugar, cocoa",Rich taste,Glass,No,No,No,No,No,Yes,Medium,India,326,50,4.4,Eco
+F012,Organic Brown Rice,whole grain organic rice,,Organic certified,Glass,No,No,No,No,Yes,No,High,India,448,19,,Not Eco
+F074,Organic Spice Mix,Traditional spice blend,,No preservatives,Plastic,Yes,No,Yes,Yes,Yes,Yes,Low,India,270,3,4.7,Eco
+F016,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking batch,Paper,,No,Yes,Yes,No,Yes,High,India,248,47,4.2,Not Eco
+F200,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Paper,No,Yes,Yes,No,No,No,Medium,India,314,48,4.6,Not Eco
+F102,Green Tea Bags,Natural green tea,green tea leaves,Antioxidant rich,Paper,No,No,Yes,No,No,No,High,India,46,33,3.8,Eco
+F152,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,Yes,Yes,Yes,Yes,No,Yes,Medium,India,344,46,4.4,Not Eco
+F156,packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked batch,Metal,No,No,Yes,Yes,Yes,Yes,High,India,143,6,4.4,Not Eco
+F117,Organic Pulses,,Lentils pack,Organic farming,Metal,Yes,Yes,Yes,Yes,Yes,No,Low,India,177,59,4.1,Not Eco
+F008,,Refined sunflower oil,Sunflower oil,Light and healthy,Metal,No,No,Yes,No,Yes,No,High,India,427,57,4.3,Not Eco
+F122,Cold Drink,carbonated soft drink,,Refreshing,Plastic,No,No,Yes,No,Yes,No,High,India,182,28,3.7,Eco
+F092,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Paper,No,Yes,Yes,Yes,No,No,Medium,India,200,54,3.6,Eco
+F164,Organic Honey,,Honey,No additives,Metal,No,Yes,No,No,No,Yes,Low,India,199,10,4.1,Not Eco
+F090,Organic Pulses,Naturally grown pulses,Lentils,,Paper,No,Yes,No,Yes,Yes,Yes,Low,India,199,14,4.9,Not Eco
+F136,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Plastic,Yes,No,Yes,No,Yes,No,Medium,India,46,12,4.1,Not Eco
+F186,Cooking Oil,,Sunflower oil,Light and healthy,Paper,Yes,No,No,No,Yes,Yes,Low,India,336,11,4.3,Not Eco
+F060,,Milk chocolate,"Sugar, cocoa",Rich taste,Glass,Yes,No,No,No,Yes,No,Medium,India,241,48,3.6,Eco
+F178,Instant Noodles,Quick cook noodles new,"Refined flour, preservatives pack",Fast cooking,,,No,Yes,Yes,Yes,Yes,Low,India,401,45,4.1,Not Eco
+F028,Packaged Bread batch,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,Yes,No,Yes,No,No,Low,India,334,54,4.5,Not Eco
+F101,instant Noodles,Quick cook noodles,"Refined flour, preservatives offer",Fast cooking,Paper,Yes,Yes,Yes,No,Yes,No,Low,India,95,2,4,Eco
+F041,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Metal,Yes,Yes,No,No,No,Yes,High,India,212,10,3.9,Eco
+F192,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Paper,Yes,No,Yes,Yes,No,No,Low,India,115,20,4.3,Eco
+F155,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Glass,Yes,Yes,No,No,Yes,No,High,India,116,46,4.8,Not Eco
+F191,Cooking Oil,refined sunflower oil,Sunflower oil,Light and healthy,Paper,,No,Yes,No,No,Yes,Low,India,525,49,4.4,Eco
+F145,Organic Honey,Pure natural honey,Honey,No additives,Metal,Yes,No,No,Yes,No,Yes,Medium,India,381,8,4.1,Not Eco
+F161,Organic Honey,Pure natural honey,Honey,No additives,Glass,No,Yes,No,No,Yes,Yes,High,India,330,17,3.7,Eco
+F157,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Paper,Yes,No,Yes,No,Yes,Yes,High,India,299,43,4.4,Eco
+F141,Instant Noodles,quick cook noodles,"Refined flour, preservatives",Fast cooking offer,Metal,No,Yes,Yes,Yes,No,No,Medium,India,157,43,4.5,Eco
+F046,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Glass,No,No,Yes,No,Yes,Yes,Low,India,114,53,4.5,Not Eco
+F035,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Metal,Yes,No,Yes,Yes,No,No,Low,India,332,34,5,Not Eco
+F134,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking offer,Paper,Yes,Yes,Yes,Yes,Yes,No,Low,India,415,24,4.4,Not Eco
+F082,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,Yes,Yes,No,Yes,No,High,India,398,48,4.1,Not Eco
+F115,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Metal,No,Yes,No,No,Yes,Yes,Medium,India,270,60,3.6,Eco
+F197,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Plastic,Yes,No,Yes,Yes,Yes,No,High,India,495,5,3.8,Eco
+F047,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,Yes,Yes,No,No,Yes,Yes,Medium,India,103,7,3.7,Not Eco
+F153,cold Drink,carbonated soft drink,"Sugar, water",Refreshing,Plastic,Yes,Yes,No,No,No,Yes,High,India,216,21,3.7,Eco
+F194,Organic Pulses batch,Naturally grown pulses,Lentils,Organic farming,Metal,No,No,Yes,No,No,Yes,High,India,81,42,4,Eco
+F010,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Glass,No,No,Yes,Yes,Yes,No,Medium,India,394,51,3.8,Eco
+F056,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Glass,Yes,No,No,Yes,No,Yes,Medium,India,517,9,4.4,Eco
+F030,Cold Drink new,Carbonated soft drink,"Sugar, water",refreshing,Metal,No,Yes,No,No,Yes,No,Medium,India,288,38,4.4,Not Eco
+F109,Organic Brown Rice,,Brown rice,Organic certified,Glass,No,No,Yes,No,Yes,No,Low,India,199,24,3.7,Eco
+F005,organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Paper,Yes,No,No,No,No,Yes,Low,India,275,43,3.7,Not Eco
+F119,Packaged Bread,Soft white bread,,Fresh baked,Paper,No,No,Yes,No,No,Yes,High,India,510,19,4,Eco
+F033,Cold Drink,Carbonated soft drink,"Sugar, water",,Glass,No,No,No,Yes,Yes,Yes,Low,India,80,42,3.5,Not Eco
+F118,,Natural green tea,Green tea leaves,,Plastic,No,Yes,Yes,No,No,Yes,Medium,India,179,45,5,Eco
+F065,Chocolate Bar,Milk chocolate batch,"Sugar, cocoa",Rich taste,Paper,No,Yes,No,Yes,No,Yes,High,India,41,33,4.2,Eco
+F146,Packaged Bread,,"Refined flour, yeast",Fresh baked,Paper,No,No,Yes,No,Yes,Yes,High,India,414,3,4.1,Not Eco
+F177,Green Tea Bags,Natural green tea,Green tea leaves,antioxidant rich,Metal,No,No,Yes,Yes,Yes,No,Medium,India,320,41,4.3,Eco
+F011,Cooking Oil,Refined sunflower oil,,Light and healthy,Glass,No,No,No,No,Yes,Yes,High,India,419,45,3.7,Eco
+F085,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,,No,No,Yes,Yes,No,High,India,178,32,4.8,Eco
+F026,Cooking Oil,Refined sunflower oil,sunflower oil,Light and healthy,Paper,No,No,Yes,No,Yes,No,High,India,209,22,4,Not Eco
+F063,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste pack,Plastic,Yes,Yes,Yes,No,Yes,No,Medium,India,42,15,5,Not Eco
+F086,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Metal,Yes,No,No,Yes,No,No,Low,India,72,14,4.3,Eco
+F059,Cooking Oil,Refined sunflower oil,Sunflower oil batch,Light and healthy,Metal,Yes,No,Yes,No,No,Yes,Medium,India,69,56,4.4,Eco
+F027,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,,No,No,Yes,No,No,Yes,High,India,483,3,4.4,Eco
+F177,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Metal,No,No,Yes,Yes,Yes,No,Medium,India,320,41,4.3,Eco
+F161,Organic Honey,Pure natural honey,,No additives,Glass,No,Yes,No,No,Yes,Yes,High,India,330,17,3.7,Eco
+F098,Organic Honey,Pure natural honey,Honey batch,No additives,Plastic,Yes,Yes,No,Yes,No,No,Medium,India,109,35,4,Eco
+F105,Cooking Oil,Refined sunflower oil,Sunflower oil offer,Light and healthy,Glass,Yes,Yes,No,No,Yes,No,Low,India,495,31,4.8,Not Eco
+F099,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Glass,Yes,Yes,No,No,Yes,No,High,India,35,52,5,Eco
+F129,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Plastic,Yes,Yes,No,No,No,No,Medium,India,568,25,3.6,Not Eco
+F149,Cooking Oil,Refined sunflower oil,sunflower oil,light and healthy,Paper,No,No,Yes,Yes,No,Yes,High,India,281,35,3.8,Eco
+F055,Organic Honey,Pure natural honey,Honey,No additives,Paper,Yes,Yes,Yes,Yes,Yes,No,Medium,India,79,13,,Eco
+F006,cold Drink offer,Carbonated soft drink,"sugar, water",Refreshing,Paper,No,No,Yes,No,No,Yes,Medium,India,158,23,4.8,Eco
+F197,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Plastic,Yes,No,Yes,Yes,Yes,No,High,India,495,5,3.8,Not Eco
+F095,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,Yes,No,No,Yes,Yes,Yes,Medium,India,147,44,4.7,Not Eco
+F133,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Metal,Yes,Yes,No,Yes,No,Yes,Low,India,497,52,4.4,Eco
+F102,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Paper,No,No,Yes,No,No,No,High,India,46,33,3.8,Not Eco
+F003,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Paper,No,Yes,No,Yes,No,No,Medium,India,395,26,4.1,Not Eco
+F181,Chocolate Bar offer,Milk chocolate batch,"Sugar, cocoa",Rich taste,Plastic,No,No,Yes,Yes,No,No,Low,India,246,43,3.6,Not Eco
+F023,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Paper,Yes,Yes,Yes,No,Yes,Yes,High,India,560,30,3.5,Eco
+F053,Organic Pulses,naturally grown pulses,Lentils,organic farming,Glass,Yes,No,No,Yes,Yes,No,Low,India,573,21,3.9,Eco
+F165,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,No,No,No,Yes,No,No,High,India,71,35,3.7,Not Eco
+F083,Organic Honey,Pure natural honey,Honey pack,no additives,Paper,Yes,No,Yes,Yes,No,Yes,Medium,India,296,54,3.9,Not Eco
+F145,Organic Honey,Pure natural honey,Honey,No additives,Metal,Yes,No,No,Yes,No,Yes,Medium,India,381,8,4.1,Not Eco
+F085,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,No,No,No,Yes,Yes,No,High,India,178,32,4.8,Eco
+F078,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking batch,Paper,Yes,No,Yes,Yes,Yes,No,Low,India,40,19,4.1,Not Eco
+F110,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Plastic,Yes,No,Yes,Yes,Yes,No,Low,India,,32,4.2,Eco
+F001,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Plastic,No,Yes,No,Yes,Yes,No,Low,India,186,33,4.5,Not Eco
+F051,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Plastic,No,Yes,Yes,No,No,Yes,High,India,350,24,,Eco
+F173,Packaged Bread,soft white bread,"Refined flour, yeast",Fresh baked,Metal,No,Yes,No,No,No,No,Medium,India,,1,4.9,Eco
+F004,Chocolate Bar,Milk chocolate,"Sugar, cocoa",rich taste pack,Glass,Yes,Yes,No,No,No,No,High,India,269,57,4.5,Not Eco
+F190,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Paper,No,Yes,Yes,No,Yes,No,Medium,India,105,17,3.6,Not Eco
+F193,Green Tea Bags,Natural green tea pack,Green tea leaves,Antioxidant rich,Plastic,Yes,No,No,No,Yes,Yes,Medium,India,186,38,4.7,Not Eco
+F113,Cold Drink,Carbonated soft drink,"Sugar, water new",Refreshing,Glass,No,No,Yes,No,No,Yes,High,India,499,28,3.7,Eco
+F032,Organic Brown Rice offer,Whole grain organic rice,Brown rice,Organic certified,Metal,No,No,Yes,Yes,Yes,Yes,Low,India,347,39,3.7,Not Eco
+F034,Chocolate Bar batch,Milk chocolate,"Sugar, cocoa",Rich taste,Paper,No,Yes,Yes,No,Yes,Yes,Medium,India,271,55,4.3,Not Eco
+F092,Cold Drink,Carbonated soft drink,"Sugar, water new",Refreshing,Paper,No,Yes,Yes,Yes,No,No,Medium,India,200,54,3.6,Eco
+F095,Cold Drink,,"Sugar, water",refreshing,Metal,Yes,No,No,Yes,Yes,Yes,Medium,India,147,44,4.7,Not Eco
+F072,Instant Noodles,Quick cook noodles,"Refined flour, preservatives offer",Fast cooking,Glass,,Yes,Yes,No,Yes,Yes,Low,India,373,9,4.8,Not Eco
+F039,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",fast cooking,Metal,No,No,No,No,No,Yes,Medium,India,161,36,4.2,Eco
+F154,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,No,No,Yes,No,Yes,Low,India,275,14,4.5,Eco
+F162,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Metal,,No,Yes,No,Yes,No,Low,India,561,12,5,Not Eco
+F182,,Traditional spice blend,Natural spices,No preservatives,Glass,Yes,Yes,Yes,No,No,Yes,High,India,308,1,,Not Eco
+F118,Green Tea Bags,Natural green tea,Green tea leaves offer,Antioxidant rich,Plastic,No,Yes,Yes,No,No,Yes,Medium,India,179,45,5,Not Eco
+F003,Cold Drink,Carbonated soft drink,"Sugar, water new",Refreshing,Paper,No,Yes,No,Yes,No,No,Medium,India,395,26,4.1,Not Eco
+F123,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Glass,No,Yes,Yes,Yes,Yes,No,Low,India,134,30,4.6,Eco
+F050,Organic Honey,pure natural honey,Honey,No additives,Glass,Yes,No,Yes,Yes,No,Yes,High,India,475,46,3.8,Not Eco
+F012,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Glass,No,No,No,No,Yes,No,High,India,448,19,3.9,Not Eco
+F193,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Plastic,Yes,No,No,No,Yes,Yes,Medium,India,186,38,4.7,Not Eco
+F054,Organic Spice Mix,Traditional spice blend,natural spices,No preservatives,Paper,No,No,No,No,Yes,Yes,Low,India,530,34,4.7,Eco
+F133,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Metal,Yes,Yes,No,Yes,No,Yes,Low,India,497,52,4.4,Eco
+F057,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Paper,Yes,Yes,No,No,No,Yes,Medium,India,557,6,4.5,Not Eco
+F145,Organic Honey,Pure natural honey,Honey,No additives,Metal,Yes,No,No,Yes,No,Yes,Medium,India,381,8,4.1,Not Eco
+F112,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,No,Yes,Yes,No,No,No,High,India,217,8,3.7,Eco
+F047,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,Yes,Yes,No,No,Yes,Yes,Medium,India,103,7,3.7,Not Eco
+F151,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,No,Yes,No,Yes,No,No,Medium,India,343,5,4.2,Not Eco
+F085,Cold Drink,Carbonated soft drink,"Sugar, water",,Metal,No,No,No,Yes,Yes,No,High,India,178,32,4.8,Not Eco
+F142,Chocolate Bar,milk chocolate pack,,Rich taste,,No,Yes,Yes,Yes,Yes,No,Low,India,509,29,3.7,Not Eco
+F066,Organic Brown Rice,Whole grain organic rice,brown rice,,Metal,,No,No,No,No,Yes,Low,India,159,40,4,Eco
+F075,packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,No,Yes,Yes,No,No,No,Medium,India,129,33,3.8,Eco
+F179,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,Yes,No,Yes,Yes,No,Yes,Low,India,519,3,3.6,Not Eco
+F103,,Carbonated soft drink batch,"Sugar, water",Refreshing,Metal,No,Yes,No,No,Yes,Yes,Low,India,180,11,5,Not Eco
+F166,Organic Honey new,,honey,No additives,Metal,No,Yes,Yes,Yes,Yes,No,Low,India,171,5,3.7,Eco
+F192,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Paper,Yes,No,Yes,Yes,No,No,Low,India,115,20,4.3,Eco
+F038,Cooking Oil,Refined sunflower oil offer,Sunflower oil,light and healthy,Glass,Yes,Yes,No,No,No,No,High,India,141,39,4.6,Eco
+F050,Organic Honey,Pure natural honey,Honey,No additives,Glass,Yes,No,Yes,Yes,No,Yes,High,India,,46,3.8,Not Eco
+F098,Organic Honey,Pure natural honey,Honey offer,No additives,Plastic,Yes,Yes,No,Yes,No,No,Medium,India,109,35,4,Eco
+F082,,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,Yes,Yes,No,Yes,No,High,India,398,48,4.1,Not Eco
+F030,,Carbonated soft drink,,Refreshing,Metal,No,Yes,No,No,Yes,No,Medium,India,288,38,4.4,Not Eco
+F079,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Paper,No,Yes,Yes,No,No,Yes,Low,India,251,33,3.9,Eco
+F091,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Glass,No,No,No,No,Yes,No,Low,India,533,22,4.4,Not Eco
+F179,Organic Pulses batch,,lentils pack,Organic farming pack,,Yes,No,Yes,Yes,No,Yes,Low,India,519,3,3.6,Not Eco
+F191,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Paper,,No,Yes,No,No,Yes,Low,India,525,49,4.4,Eco
+F052,Organic Honey,Pure natural honey,Honey batch,no additives,Metal,Yes,Yes,No,Yes,No,Yes,Medium,India,117,34,4,Not Eco
+F166,,Pure natural honey,Honey,No additives,Metal,No,Yes,Yes,Yes,Yes,No,Low,India,171,5,3.7,Eco
+F079,Chocolate Bar,Milk chocolate,"Sugar, cocoa pack",Rich taste,Paper,No,Yes,Yes,No,No,Yes,Low,India,251,33,3.9,Not Eco
+F030,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,,No,Yes,No,No,Yes,No,Medium,India,288,38,4.4,Not Eco
+F106,Organic Spice Mix,Traditional spice blend batch,Natural spices,No preservatives,Metal,No,No,Yes,Yes,No,No,High,India,164,32,4.4,Not Eco
+F051,Chocolate Bar,Milk chocolate,,,Plastic,No,Yes,Yes,No,No,Yes,High,India,350,24,4.8,Eco
+F081,,Natural green tea,Green tea leaves pack,Antioxidant rich offer,Plastic,No,Yes,Yes,Yes,Yes,Yes,Medium,India,163,6,4.2,Not Eco
+F133,Organic Spice Mix,Traditional spice blend,Natural spices,,Metal,Yes,Yes,No,Yes,No,Yes,Low,India,497,52,4.4,Eco
+F029,Cooking Oil batch,,Sunflower oil,Light and healthy,,No,Yes,No,No,No,No,High,India,572,35,3.9,Not Eco
+F132,Organic Spice Mix,Traditional spice blend batch,,No preservatives,Paper,No,Yes,No,No,Yes,No,High,India,509,45,5,Eco
+F138,Organic Brown Rice pack,Whole grain organic rice,Brown rice pack,Organic certified,Glass,Yes,No,Yes,No,No,No,Low,India,98,9,4.7,Not Eco
+F184,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Metal,No,No,No,No,No,Yes,Medium,India,264,1,4.9,Eco
+F145,Organic Honey,Pure natural honey,Honey,No additives,Metal,Yes,No,No,Yes,No,Yes,Medium,India,381,8,4.1,Not Eco
+F074,,Traditional spice blend,Natural spices,No preservatives,Plastic,Yes,No,Yes,Yes,Yes,Yes,Low,India,270,3,4.7,Eco
+F017,cold Drink,Carbonated soft drink,,refreshing,Metal,Yes,Yes,Yes,Yes,No,Yes,Medium,India,430,6,3.7,Eco
+F084,,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,No,No,No,No,No,No,High,India,106,4,4.7,Eco
+F069,Organic Honey,pure natural honey,Honey,No additives,Paper,No,Yes,No,No,No,No,Low,India,132,39,4.7,Eco
+F034,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Paper,No,Yes,Yes,No,Yes,Yes,Medium,India,271,55,4.3,Not Eco
+F006,Cold Drink,Carbonated soft drink,"Sugar, water",refreshing,Paper,No,No,Yes,No,No,Yes,Medium,India,158,,4.8,Eco
+F053,Organic Pulses,Naturally grown pulses,Lentils offer,Organic farming,Glass,Yes,No,No,Yes,Yes,No,Low,India,573,21,3.9,Eco
+F194,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Metal,No,No,Yes,No,No,Yes,High,India,81,42,4,Not Eco
+F126,Organic Brown Rice,Whole grain organic rice,Brown rice,,Plastic,Yes,Yes,No,No,No,Yes,High,India,406,1,4.8,Not Eco
+F043,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives new,Glass,No,No,No,No,Yes,No,Medium,India,493,20,,Eco
+F115,Chocolate Bar,Milk chocolate,"Sugar, cocoa offer",Rich taste pack,Metal,No,Yes,No,No,Yes,Yes,Medium,India,270,60,3.6,Not Eco
+F111,Organic Honey,Pure natural honey,Honey,No additives,Glass,No,Yes,No,Yes,Yes,Yes,High,India,317,2,4.2,Eco
+F151,Instant Noodles,Quick cook noodles,"Refined flour, preservatives pack",Fast cooking,Paper,No,Yes,No,Yes,No,No,Medium,India,343,5,4.2,Not Eco
+F183,Packaged Bread,Soft white bread,"Refined flour, yeast batch",Fresh baked,Metal,Yes,No,Yes,No,Yes,No,High,India,537,24,4.8,Not Eco
+F080,Organic Pulses,naturally grown pulses,,Organic farming,Paper,Yes,No,Yes,No,No,Yes,High,India,340,13,4.4,Eco
+F095,Cold Drink,Carbonated soft drink batch,"Sugar, water",refreshing,Metal,Yes,No,No,Yes,Yes,Yes,Medium,India,147,44,4.7,Not Eco
+F118,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Plastic,No,Yes,Yes,No,No,Yes,Medium,India,179,45,5,Eco
+F144,organic Pulses offer,naturally grown pulses pack,Lentils,Organic farming,Glass,No,No,Yes,No,No,No,High,India,458,30,4.5,Eco
+F008,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Metal,No,No,Yes,No,Yes,No,High,India,427,57,4.3,Not Eco
+F132,Organic Spice Mix,Traditional spice blend,Natural spices pack,No preservatives,Paper,No,Yes,No,No,Yes,No,High,India,509,45,5,Eco
+F104,Packaged Bread offer,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,Yes,Yes,Yes,Yes,No,High,India,,27,4.6,Eco
+F132,Organic Spice Mix new,Traditional spice blend,Natural spices,No preservatives,Paper,No,Yes,No,No,Yes,No,High,India,509,45,5,Eco
+F184,,refined sunflower oil,Sunflower oil,Light and healthy,Metal,No,No,No,No,No,Yes,Medium,India,264,1,4.9,Eco
+F025,Cold Drink new,Carbonated soft drink,"Sugar, water",Refreshing,Metal,No,No,No,Yes,No,No,Medium,India,294,54,4.2,Eco
+F195,Green Tea Bags,Natural green tea new,Green tea leaves,Antioxidant rich,Plastic,No,Yes,No,No,No,No,Low,India,599,7,3.9,Not Eco
+F096,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Glass,Yes,No,Yes,No,Yes,Yes,Low,India,128,23,4,Not Eco
+F195,Green Tea Bags,Natural green tea,Green tea leaves,,Plastic,No,Yes,No,No,No,No,Low,India,599,7,3.9,Not Eco
+F155,Organic Spice Mix,Traditional spice blend,natural spices,No preservatives,Glass,,Yes,No,No,Yes,No,High,India,116,46,4.8,Not Eco
+F093,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,,Yes,No,No,No,No,No,High,India,558,29,4,Eco
+F160,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,No,No,No,No,No,No,Low,India,386,28,4.6,Not Eco
+F178,Instant Noodles,Quick cook noodles,,,Glass,No,No,Yes,Yes,Yes,Yes,Low,India,401,45,4.1,Not Eco
+F061,,Quick cook noodles,"Refined flour, preservatives",,Plastic,,No,Yes,Yes,Yes,Yes,High,India,435,50,4.1,Eco
+F122,Cold Drink,Carbonated soft drink,"sugar, water",,Plastic,,No,Yes,No,Yes,No,High,India,182,28,3.7,Eco
+F051,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Plastic,No,Yes,Yes,No,No,Yes,High,India,350,24,4.8,Eco
+F147,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Plastic,,No,No,No,Yes,No,Low,India,349,18,3.6,Eco
+F021,Organic Spice Mix,Traditional spice blend,Natural spices,No preservatives offer,Glass,No,Yes,No,No,No,No,Medium,India,294,1,4.7,Eco
+F005,Organic Spice Mix,Traditional spice blend,natural spices,No preservatives,Paper,Yes,No,No,No,No,Yes,Low,India,275,43,3.7,Not Eco
+F092,Cold Drink,Carbonated soft drink,"Sugar, water",,Paper,,Yes,Yes,Yes,No,No,Medium,India,200,54,3.6,Eco
+F170,Instant Noodles,Quick cook noodles,"Refined flour, preservatives batch",fast cooking,Paper,Yes,No,Yes,No,No,Yes,Medium,India,295,2,4.6,Not Eco
+F061,,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Plastic,Yes,No,Yes,Yes,Yes,Yes,High,India,435,50,4.1,Eco
+F022,Cooking Oil,Refined sunflower oil,Sunflower oil,light and healthy,Plastic,Yes,Yes,Yes,Yes,No,No,Low,India,429,22,3.7,Not Eco
+F149,Cooking Oil,,Sunflower oil,Light and healthy,Paper,No,No,Yes,Yes,No,Yes,High,India,281,35,3.8,Eco
+F070,Packaged Bread,soft white bread,"Refined flour, yeast new",Fresh baked offer,Glass,No,No,No,Yes,Yes,Yes,Medium,India,530,47,4.2,Not Eco
+F001,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Plastic,No,Yes,No,Yes,Yes,No,Low,India,186,33,4.5,Not Eco
+F133,Organic Spice Mix,Traditional spice blend,Natural spices,,Metal,Yes,Yes,No,Yes,No,Yes,Low,India,497,52,4.4,Eco
+F012,organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Glass,No,No,No,No,Yes,No,High,India,448,19,3.9,Not Eco
+F090,Organic Pulses,Naturally grown pulses,Lentils,Organic farming,Paper,No,Yes,No,Yes,Yes,Yes,Low,India,199,14,4.9,Not Eco
+F046,cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Glass,No,No,Yes,No,Yes,Yes,Low,India,114,53,4.5,Not Eco
+F034,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Paper,No,Yes,Yes,No,Yes,Yes,Medium,India,271,55,4.3,Not Eco
+F177,Green Tea Bags,Natural green tea,green tea leaves,Antioxidant rich,Metal,No,No,Yes,Yes,Yes,No,Medium,India,320,41,4.3,Eco
+F078,instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Paper,Yes,No,Yes,Yes,Yes,No,Low,India,40,19,4.1,Not Eco
+F045,,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Plastic,No,Yes,No,Yes,Yes,Yes,High,India,554,45,3.6,Not Eco
+F155,Organic Spice Mix offer,Traditional spice blend,,No preservatives,Glass,Yes,Yes,No,No,Yes,No,High,India,116,46,4.8,Not Eco
+F073,cold Drink,Carbonated soft drink,"Sugar, water",Refreshing batch,Paper,Yes,Yes,No,No,No,Yes,Low,India,149,12,4.7,Eco
+F026,,Refined sunflower oil,Sunflower oil,Light and healthy,Paper,No,No,Yes,No,Yes,No,High,India,209,22,4,Not Eco
+F047,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,Yes,Yes,No,No,Yes,Yes,Medium,India,103,7,3.7,Not Eco
+F121,Organic Spice Mix,Traditional spice blend,Natural spices,,Plastic,No,Yes,Yes,No,No,No,Low,India,205,2,4.2,Eco
+F056,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,Glass,Yes,No,No,Yes,No,Yes,Medium,India,517,,4.4,Not Eco
+F094,organic Spice Mix,Traditional spice blend,,No preservatives,Metal,No,No,Yes,No,Yes,No,High,India,180,17,3.5,Not Eco
+F107,Cooking Oil,Refined sunflower oil,,Light and healthy,Plastic,Yes,Yes,No,No,No,Yes,High,India,470,19,5,Not Eco
+F063,Chocolate Bar,Milk chocolate,"sugar, cocoa",Rich taste batch,Plastic,Yes,Yes,Yes,No,Yes,No,Medium,India,42,15,5,Eco
+F048,Packaged Bread,soft white bread,"Refined flour, yeast",Fresh baked,Metal,,No,No,Yes,Yes,No,Medium,India,345,51,4.5,Eco
+F061,Instant Noodles,Quick cook noodles,"Refined flour, preservatives batch",Fast cooking,Plastic,Yes,No,Yes,Yes,Yes,Yes,High,India,435,50,4.1,Eco
+F081,Green Tea Bags,Natural green tea,green tea leaves,Antioxidant rich,Plastic,No,Yes,Yes,Yes,Yes,Yes,Medium,India,163,6,4.2,Not Eco
+F026,Cooking Oil new,Refined sunflower oil,,Light and healthy,Paper,No,No,Yes,No,Yes,No,High,India,209,22,4,Not Eco
+F036,Organic Honey,Pure natural honey,Honey,No additives,Glass,No,Yes,Yes,Yes,No,Yes,Low,India,,23,4.9,Not Eco
+F001,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Plastic,No,Yes,No,Yes,Yes,No,Low,India,186,33,4.5,Not Eco
+F008,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Metal,No,No,Yes,No,Yes,No,High,India,427,57,4.3,Not Eco
+F113,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Glass,,No,Yes,No,No,Yes,High,India,499,28,3.7,Eco
+F099,,Soft white bread,"Refined flour, yeast new",Fresh baked offer,Glass,Yes,Yes,No,No,Yes,No,High,India,35,,5,Eco
+F180,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Plastic,No,Yes,No,Yes,Yes,No,Medium,India,147,10,4.3,Eco
+F047,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,Yes,Yes,No,No,Yes,Yes,Medium,India,103,7,,Not Eco
+F127,Cold Drink pack,Carbonated soft drink,"Sugar, water",Refreshing,Glass,Yes,Yes,Yes,Yes,Yes,Yes,High,India,58,,4.8,Eco
+F056,Organic Brown Rice,Whole grain organic rice,Brown rice new,Organic certified,Glass,Yes,No,No,Yes,No,Yes,Medium,India,517,9,4.4,Not Eco
+F014,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Paper,No,No,No,No,No,Yes,Low,India,595,9,4.6,Eco
+F028,,Soft white bread,"Refined flour, yeast",Fresh baked pack,Metal,Yes,Yes,No,Yes,No,No,Low,India,334,54,4.5,Not Eco
+F078,Instant Noodles new,Quick cook noodles,"Refined flour, preservatives",Fast cooking,,Yes,No,Yes,Yes,Yes,No,Low,India,40,19,4.1,Not Eco
+F130,organic Spice Mix,Traditional spice blend,Natural spices,No preservatives,Paper,No,Yes,Yes,No,Yes,No,Medium,India,364,13,3.6,Not Eco
+F109,,Whole grain organic rice,brown rice new,Organic certified,Glass,No,No,Yes,No,Yes,No,Low,India,199,24,3.7,Eco
+F154,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,No,No,Yes,No,Yes,Low,India,275,14,,Eco
+F014,,Natural green tea,green tea leaves,Antioxidant rich,Paper,No,No,No,No,No,Yes,Low,India,595,9,4.6,Not Eco
+F187,Organic Honey,Pure natural honey,Honey,No additives,Glass,Yes,No,Yes,Yes,No,No,Low,India,304,7,4.5,Eco
+F056,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified new,Glass,Yes,No,No,Yes,No,Yes,Medium,India,517,9,4.4,Not Eco
+F115,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Metal,No,Yes,No,No,Yes,Yes,Medium,India,270,60,3.6,Eco
+F007,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,,Yes,No,No,No,No,High,India,364,11,3.6,Not Eco
+F003,Cold Drink,Carbonated soft drink,,Refreshing,Paper,,Yes,No,Yes,No,No,Medium,India,395,26,4.1,Not Eco
+F111,Organic Honey pack,Pure natural honey,Honey,No additives,Glass,No,Yes,No,Yes,Yes,Yes,High,India,317,2,4.2,Not Eco
+F151,Instant Noodles,Quick cook noodles,"Refined flour, preservatives new",Fast cooking,Paper,No,Yes,No,Yes,No,No,Medium,India,343,5,4.2,Not Eco
+F107,Cooking Oil,Refined sunflower oil,,Light and healthy new,Plastic,Yes,Yes,No,No,No,Yes,High,India,470,19,5,Not Eco
+F018,Green Tea Bags,Natural green tea,Green tea leaves,Antioxidant rich,Metal,Yes,No,Yes,No,No,No,Medium,India,124,31,4.8,Not Eco
+F038,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy offer,Glass,Yes,Yes,No,No,No,No,High,India,141,39,4.6,Eco
+F115,Chocolate Bar,Milk chocolate,"Sugar, cocoa",Rich taste,Metal,No,Yes,No,No,Yes,Yes,Medium,India,270,60,3.6,Eco
+F015,Organic Honey,Pure natural honey,Honey,No additives,Glass,Yes,Yes,No,No,No,No,Medium,India,314,17,4.9,Not Eco
+F192,Organic Spice Mix,traditional spice blend,Natural spices,No preservatives,Paper,Yes,No,Yes,Yes,No,No,Low,India,115,20,4.3,Eco
+F119,packaged Bread,soft white bread,"Refined flour, yeast offer",Fresh baked,Paper,No,No,Yes,No,No,Yes,High,India,510,19,4,Eco
+F028,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Metal,Yes,Yes,No,Yes,No,No,Low,India,334,54,4.5,Not Eco
+F039,Instant Noodles,Quick cook noodles,"Refined flour, preservatives",Fast cooking,Metal,No,No,No,No,No,Yes,Medium,India,161,36,4.2,Eco
+F185,Chocolate Bar,milk chocolate new,"Sugar, cocoa",Rich taste,Glass,No,No,No,No,No,Yes,Medium,India,326,50,4.4,Eco
+F017,Cold Drink new,Carbonated soft drink,"Sugar, water",Refreshing,Metal,Yes,Yes,Yes,Yes,No,Yes,Medium,India,430,6,3.7,Eco
+F086,,Traditional spice blend,Natural spices batch,No preservatives,Metal,Yes,No,No,Yes,No,No,Low,India,72,14,4.3,Eco
+F126,Organic Brown Rice,Whole grain organic rice,,Organic certified,Plastic,Yes,Yes,No,No,No,Yes,High,India,406,1,4.8,Eco
+F044,Organic Pulses,,Lentils,Organic farming,Paper,Yes,No,Yes,No,No,No,High,India,63,47,3.7,Not Eco
+F025,Cold Drink,Carbonated soft drink,"Sugar, water",Refreshing,Metal,No,No,No,Yes,No,No,Medium,India,294,54,4.2,Eco
+F145,Organic Honey,Pure natural honey,honey,No additives new,Metal,Yes,No,No,Yes,No,Yes,Medium,India,381,8,4.1,Not Eco
+F013,Organic Spice Mix,Traditional spice blend,Natural spices pack,No preservatives pack,Paper,No,No,No,Yes,Yes,No,Medium,India,424,1,4.5,Not Eco
+F025,Cold Drink,Carbonated soft drink offer,"Sugar, water",Refreshing,Metal,No,No,No,Yes,No,No,Medium,India,294,54,4.2,Eco
+F068,Cold Drink,,"Sugar, water",Refreshing,Metal,No,No,No,Yes,No,Yes,High,India,550,4,4.3,Eco
+F138,Organic Brown Rice,Whole grain organic rice,Brown rice,Organic certified,,Yes,No,Yes,No,No,No,Low,India,98,9,4.7,Not Eco
+F067,Cold Drink,Carbonated soft drink,"Sugar, water offer",Refreshing,,No,Yes,Yes,Yes,No,No,High,India,328,18,4.1,Not Eco
+F109,Organic Brown Rice,Whole grain organic rice batch,Brown rice,Organic certified,Glass,No,No,Yes,No,Yes,No,Low,India,199,24,3.7,Eco
+F146,Packaged Bread,Soft white bread,"Refined flour, yeast",Fresh baked,Paper,No,No,Yes,No,Yes,Yes,High,India,414,3,4.1,Eco
+F111,Organic Honey,Pure natural honey,,no additives,Glass,No,Yes,No,Yes,Yes,Yes,High,India,317,2,4.2,Not Eco
+F111,Organic Honey,Pure natural honey,Honey,No additives,Glass,No,Yes,No,Yes,Yes,Yes,High,India,317,2,4.2,Not Eco
+F034,Chocolate Bar,Milk chocolate,"Sugar, cocoa pack",Rich taste,Paper,No,Yes,Yes,No,Yes,Yes,Medium,India,271,55,4.3,Not Eco
+F111,Organic Honey,Pure natural honey offer,Honey,No additives,Glass,No,Yes,No,Yes,Yes,Yes,High,India,317,2,4.2,Not Eco
+F008,Cooking Oil,Refined sunflower oil,Sunflower oil,Light and healthy,Metal,No,No,Yes,No,Yes,No,High,India,427,57,4.3,Not Eco
