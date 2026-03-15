@@ -1,106 +1,161 @@
-# Eco-Friendly Food Product Recommendation System
+# 🌱 Eco-Friendly Food Product Recommendation System
 
-This project is a Machine Learning based recommendation system that suggests eco-friendly food products.  
-The system analyzes food product data and recommends similar sustainable products using machine learning techniques.
+A **Machine Learning–based recommendation system** that suggests eco-friendly food products based on product similarity.
+The system analyzes food product attributes and recommends sustainable alternatives using a **content-based recommendation approach**.
 
-## Features
+---
 
-- Recommends eco-friendly food products
-- Uses machine learning for product similarity
-- Fast recommendations using precomputed similarity matrices
-- Built with Streamlit for interactive interface
+## 📌 Project Overview
 
-## Technologies Used
+The goal of this project is to help users discover **eco-friendly and sustainable food products** by leveraging machine learning techniques.
+By analyzing product information such as ingredients, categories, and environmental attributes, the system identifies similar products and recommends sustainable alternatives.
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Streamlit
-- Joblib
+The application is built with **Streamlit**, providing an interactive and user-friendly interface.
 
-## Dataset
+---
+
+## ✨ Key Features
+
+* 🌿 Recommends eco-friendly food products
+* 🤖 Uses **machine learning–based similarity matching**
+* ⚡ Fast recommendations using **precomputed similarity matrices**
+* 🖥️ Interactive **Streamlit web interface**
+* 📦 Pre-trained models for instant predictions
+
+---
+
+## 🛠️ Technologies Used
+
+* **Python**
+* **Pandas** – Data manipulation
+* **NumPy** – Numerical operations
+* **Scikit-learn** – Machine learning algorithms
+* **Streamlit** – Web application interface
+* **Joblib** – Model serialization and loading
+
+---
+
+## 📊 Dataset
 
 The project uses a dataset containing food product information.
 
-Dataset file:
+**Dataset file**
+
+```
 food_products_dataset2.csv
+```
 
-The dataset may contain details like:
-- Product name
-- Ingredients
-- Categories
-- Nutritional or environmental attributes
+The dataset may include attributes such as:
 
-## Machine Learning Approach
+* Product Name
+* Ingredients
+* Categories
+* Nutritional information
+* Environmental or sustainability indicators
 
-The system uses a **content-based recommendation approach**.
+---
 
-Main steps:
-1. Data preprocessing
-2. Feature extraction
-3. Text vectorization
-4. Similarity calculation
-5. Product recommendation based on similarity scores
+## 🧠 Machine Learning Approach
 
-Pre-trained files used in the project:
-- model.joblib
-- vectorizer.joblib
-- similarity_matrix.joblib
-- products_df.joblib
-- feature_cols.joblib
+This project uses a **Content-Based Recommendation System**.
 
-These files allow the system to generate recommendations without retraining the model.
+### Workflow
 
-## Installation
+1. **Data Preprocessing**
 
-Clone the repository
+   * Cleaning and preparing product data
+
+2. **Feature Extraction**
+
+   * Selecting relevant product attributes
+
+3. **Text Vectorization**
+
+   * Converting textual information into numerical vectors
+
+4. **Similarity Computation**
+
+   * Calculating similarity between products
+
+5. **Recommendation Generation**
+
+   * Suggesting products based on similarity scores
+
+---
+
+## 📁 Pre-Trained Model Files
+
+To improve performance and avoid retraining the model each time, the project uses pre-trained files:
+
+* `model.joblib`
+* `vectorizer.joblib`
+* `similarity_matrix.joblib`
+* `products_df.joblib`
+* `feature_cols.joblib`
+
+These files allow the system to **generate recommendations quickly**.
+
+---
+
+## 🚀 Installation
+
+### 1️⃣ Clone the Repository
 
 ```
 git clone https://github.com/SaniyaManer786/Eco-Friendly-Food-Product.git
 ```
 
-Go to the project directory
+### 2️⃣ Navigate to the Project Directory
 
 ```
 cd Eco-Friendly-Food-Product
 ```
 
-Install required dependencies
+### 3️⃣ Install Required Dependencies
 
 ```
 pip install -r requirements.txt
 ```
 
-## Run the Project
+---
 
-Run the Streamlit application
+## ▶️ Run the Application
+
+Start the Streamlit application:
 
 ```
 streamlit run index.py
 ```
 
-Then open the local link shown in the terminal.
+After running the command, open the local URL displayed in your terminal.
 
 Example:
+
 ```
 http://localhost:8501
 ```
 
-## Future Improvements
+---
 
-- Improve recommendation accuracy
-- Add more environmental metrics
-- Add better filtering options
-- Deploy the system online
+## 🔮 Future Improvements
 
-## Author
+* Improve recommendation accuracy using advanced ML techniques
+* Incorporate additional environmental impact metrics
+* Add advanced filtering and search options
+* Deploy the system as an online web application
+* Integrate a larger and more diverse dataset
 
-Saniya Maner
+---
 
-GitHub:  
+## 👩‍💻 Author
+
+**Saniya Maner**
+
+GitHub:
 https://github.com/SaniyaManer786
 
-## License
+---
 
-This project is for educational purposes.
+## 📜 License
+
+This project is developed for **educational purposes**.
