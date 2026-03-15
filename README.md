@@ -1,6 +1,6 @@
 # 🌱 Eco-Friendly Food Product Recommendation System
 
-A **Machine Learning–based recommendation system** that suggests eco-friendly food products based on product similarity.
+A **Machine Learning–Based Recommendation System** that suggests eco-friendly food products based on product similarity.
 The system analyzes food product attributes and recommends sustainable alternatives using a **content-based recommendation approach**.
 
 ---
